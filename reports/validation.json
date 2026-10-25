@@ -1,0 +1,46 @@
+{
+  "raw_rows": 7192,
+  "duplicate_grain_count": 0,
+  "invalid_bounds_count": 0,
+  "raw_to_clean_rows": 7192,
+  "states_in_dimension": 51,
+  "expected_state_years": 255,
+  "state_years_available": 251,
+  "unavailable_estimates_all_locations": 1222,
+  "state_overall_rows": 251,
+  "state_demographic_rows": 6575,
+  "missing_state_years": [
+    {
+      "year": 2019,
+      "state_code": "NJ",
+      "state_name": "New Jersey",
+      "prevalence_pct": null,
+      "coverage_status": "No source row"
+    },
+    {
+      "year": 2021,
+      "state_code": "FL",
+      "state_name": "Florida",
+      "prevalence_pct": null,
+      "coverage_status": "No source row"
+    },
+    {
+      "year": 2023,
+      "state_code": "KY",
+      "state_name": "Kentucky",
+      "prevalence_pct": null,
+      "coverage_status": "No source row"
+    },
+    {
+      "year": 2023,
+      "state_code": "PA",
+      "state_name": "Pennsylvania",
+      "prevalence_pct": null,
+      "coverage_status": "No source row"
+    }
+  ],
+  "independent_source_and_arithmetic_checks": "Passed",
+  "independently_verified_persistent_states": 17,
+  "missing_prior_calendar_year_guards": "Passed: FL 2022 and NJ 2020",
+  "database_integrity": "ok"
+}

@@ -2,6 +2,8 @@
 
 Independent analytics portfolio project | Python • SQL (SQLite) • Tableau-ready data and dashboard specification
 
+![Smoking trends and disparities analysis](reports/visual_summary.png)
+
 ## Decision question
 Which reporting states have persistently elevated adult cigarette smoking prevalence, and which demographic gaps warrant closer assessment before selecting outreach priorities?
 
@@ -12,9 +14,8 @@ Audience: an illustrative public-health program analyst or planning manager. Thi
 - Reproducible Python ingestion and SQLite database; executable SQL uses joins, CTEs, CASE, GROUP BY, RANK and LAG.
 - Analysis scoped to 50 states plus DC: **251 available overall state-year estimates**, **6,575 demographic estimate rows** (including unavailable cells).
 - Six Tableau-ready CSVs, calculated metrics, missingness coverage, reproducibility manifest, automated checks, findings, static visual summary, and detailed Tableau build specification.
-- Resume section that accurately describes these artifacts.
 
-**Tableau status:** no native `.twb`/`.twbx` workbook has been built or opened in Tableau, and nothing has been published to Tableau Public. The dashboard image is a static Python visualization. Do not describe this project as a completed Tableau dashboard until the specification is implemented and checked in Tableau.
+**Tableau status:** no native `.twb`/`.twbx` workbook has been built or opened in Tableau, and nothing has been published to Tableau Public. The dashboard image is a static Python visualization. Native Tableau implementation is documented in [the dashboard specification](tableau/DASHBOARD_SPEC.md).
 
 ## Compact project plan and workflow
 1. **Frame:** define descriptive comparisons, time window, audience and decision limitations.
@@ -72,10 +73,9 @@ To deliberately download a new version of the same historical window: `python3 r
 ## Files
 - `sql/analysis.sql`: all transformation and metric definitions.
 - `run_analysis.py`: source ingestion, SQL execution, CSV export and verification.
-- `data/`: preserved original JSON, source manifest with query/hash, SQLite database.
+- `data/`: preserved original JSON and source manifest with query/hash. The SQLite database is generated locally when the analysis runs.
 - `tableau/`: six CSVs and `DASHBOARD_SPEC.md` with import instructions, controls, metrics and acceptance checks.
 - `reports/`: validation JSON, computed findings JSON and static dashboard summary image.
-- `RESUME_SECTION.md`: insertion-ready English section and ownership/interview notes.
 
 ## Sources
 Accessed October 20, 2026.

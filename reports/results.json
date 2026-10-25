@@ -1,0 +1,350 @@
+{
+  "coverage_by_year": [
+    {
+      "year": 2019,
+      "expected": 51,
+      "available": 50
+    },
+    {
+      "year": 2020,
+      "expected": 51,
+      "available": 51
+    },
+    {
+      "year": 2021,
+      "expected": 51,
+      "available": 50
+    },
+    {
+      "year": 2022,
+      "expected": 51,
+      "available": 51
+    },
+    {
+      "year": 2023,
+      "expected": 51,
+      "available": 49
+    }
+  ],
+  "latest_top10": [
+    {
+      "state_name": "West Virginia",
+      "prevalence_pct": 20.4,
+      "ci_low": 18.8,
+      "ci_high": 22.0,
+      "gap_vs_median_pp": 8.299999999999999,
+      "yoy_change_pp": -0.6000000000000014
+    },
+    {
+      "state_name": "Tennessee",
+      "prevalence_pct": 17.0,
+      "ci_low": 15.5,
+      "ci_high": 18.4,
+      "gap_vs_median_pp": 4.9,
+      "yoy_change_pp": -1.5
+    },
+    {
+      "state_name": "Oklahoma",
+      "prevalence_pct": 15.8,
+      "ci_low": 14.7,
+      "ci_high": 17.0,
+      "gap_vs_median_pp": 3.700000000000001,
+      "yoy_change_pp": 0.20000000000000107
+    },
+    {
+      "state_name": "Louisiana",
+      "prevalence_pct": 15.7,
+      "ci_low": 14.4,
+      "ci_high": 17.0,
+      "gap_vs_median_pp": 3.5999999999999996,
+      "yoy_change_pp": -1.0
+    },
+    {
+      "state_name": "Mississippi",
+      "prevalence_pct": 15.6,
+      "ci_low": 14.1,
+      "ci_high": 17.2,
+      "gap_vs_median_pp": 3.5,
+      "yoy_change_pp": -1.799999999999999
+    },
+    {
+      "state_name": "Alaska",
+      "prevalence_pct": 15.3,
+      "ci_low": 14.0,
+      "ci_high": 16.6,
+      "gap_vs_median_pp": 3.200000000000001,
+      "yoy_change_pp": -0.5999999999999996
+    },
+    {
+      "state_name": "Missouri",
+      "prevalence_pct": 15.3,
+      "ci_low": 14.1,
+      "ci_high": 16.5,
+      "gap_vs_median_pp": 3.200000000000001,
+      "yoy_change_pp": -1.5
+    },
+    {
+      "state_name": "South Dakota",
+      "prevalence_pct": 15.2,
+      "ci_low": 12.9,
+      "ci_high": 17.6,
+      "gap_vs_median_pp": 3.0999999999999996,
+      "yoy_change_pp": 1.1999999999999993
+    },
+    {
+      "state_name": "Arkansas",
+      "prevalence_pct": 15.0,
+      "ci_low": 13.7,
+      "ci_high": 16.3,
+      "gap_vs_median_pp": 2.9000000000000004,
+      "yoy_change_pp": -3.6999999999999993
+    },
+    {
+      "state_name": "Ohio",
+      "prevalence_pct": 15.0,
+      "ci_low": 14.0,
+      "ci_high": 15.9,
+      "gap_vs_median_pp": 2.9000000000000004,
+      "yoy_change_pp": -2.1000000000000014
+    }
+  ],
+  "latest_bottom5": [
+    {
+      "state_name": "Utah",
+      "prevalence_pct": 5.9
+    },
+    {
+      "state_name": "Connecticut",
+      "prevalence_pct": 8.4
+    },
+    {
+      "state_name": "California",
+      "prevalence_pct": 8.5
+    },
+    {
+      "state_name": "Hawaii",
+      "prevalence_pct": 9.0
+    },
+    {
+      "state_name": "Washington",
+      "prevalence_pct": 9.0
+    }
+  ],
+  "benchmark": [
+    {
+      "year": 2019,
+      "states_dc_median_pct": 16.0
+    },
+    {
+      "year": 2020,
+      "states_dc_median_pct": 15.5
+    },
+    {
+      "year": 2021,
+      "states_dc_median_pct": 14.4
+    },
+    {
+      "year": 2022,
+      "states_dc_median_pct": 14.0
+    },
+    {
+      "year": 2023,
+      "states_dc_median_pct": 12.1
+    }
+  ],
+  "persistent": [
+    {
+      "state_code": "AL",
+      "state_name": "Alabama",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "AK",
+      "state_name": "Alaska",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "AR",
+      "state_name": "Arkansas",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "IN",
+      "state_name": "Indiana",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "IA",
+      "state_name": "Iowa",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "KS",
+      "state_name": "Kansas",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "LA",
+      "state_name": "Louisiana",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "ME",
+      "state_name": "Maine",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "MI",
+      "state_name": "Michigan",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "MS",
+      "state_name": "Mississippi",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "MO",
+      "state_name": "Missouri",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "ND",
+      "state_name": "North Dakota",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "OH",
+      "state_name": "Ohio",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "OK",
+      "state_name": "Oklahoma",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "TN",
+      "state_name": "Tennessee",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "WV",
+      "state_name": "West Virginia",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    },
+    {
+      "state_code": "WY",
+      "state_name": "Wyoming",
+      "years_available": 5,
+      "years_above_median": 5,
+      "pattern": "Above median in all 5 years"
+    }
+  ],
+  "largest_education_gap": [
+    {
+      "state_name": "West Virginia",
+      "segment": "Less than H.S.",
+      "prevalence_pct": 42.4,
+      "reference_prevalence_pct": 8.7,
+      "reference_gap_pp": 33.7,
+      "reference_ratio": 4.873563218390805
+    },
+    {
+      "state_name": "District of Columbia",
+      "segment": "Less than H.S.",
+      "prevalence_pct": 36.4,
+      "reference_prevalence_pct": 3.8,
+      "reference_gap_pp": 32.6,
+      "reference_ratio": 9.578947368421053
+    },
+    {
+      "state_name": "North Dakota",
+      "segment": "Less than H.S.",
+      "prevalence_pct": 36.9,
+      "reference_prevalence_pct": 5.4,
+      "reference_gap_pp": 31.5,
+      "reference_ratio": 6.833333333333333
+    },
+    {
+      "state_name": "Tennessee",
+      "segment": "Less than H.S.",
+      "prevalence_pct": 36.8,
+      "reference_prevalence_pct": 5.5,
+      "reference_gap_pp": 31.299999999999997,
+      "reference_ratio": 6.6909090909090905
+    },
+    {
+      "state_name": "Alaska",
+      "segment": "Less than H.S.",
+      "prevalence_pct": 35.3,
+      "reference_prevalence_pct": 5.2,
+      "reference_gap_pp": 30.099999999999998,
+      "reference_ratio": 6.788461538461537
+    }
+  ],
+  "largest_declines_matched": [
+    {
+      "state_name": "Louisiana",
+      "baseline_2019_pct": 21.9,
+      "prevalence_pct": 15.7,
+      "change_since_2019_pp": -6.199999999999999
+    },
+    {
+      "state_name": "Alabama",
+      "baseline_2019_pct": 20.2,
+      "prevalence_pct": 14.2,
+      "change_since_2019_pp": -6.0
+    },
+    {
+      "state_name": "Ohio",
+      "baseline_2019_pct": 20.8,
+      "prevalence_pct": 15.0,
+      "change_since_2019_pp": -5.800000000000001
+    },
+    {
+      "state_name": "South Carolina",
+      "baseline_2019_pct": 17.6,
+      "prevalence_pct": 12.1,
+      "change_since_2019_pp": -5.500000000000002
+    },
+    {
+      "state_name": "New Hampshire",
+      "baseline_2019_pct": 15.9,
+      "prevalence_pct": 10.4,
+      "change_since_2019_pp": -5.5
+    }
+  ]
+}

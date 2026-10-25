@@ -1,0 +1,256 @@
+year,state_code,state_name,prevalence_pct,coverage_status
+2019,AK,Alaska,17.4,Available
+2019,AL,Alabama,20.2,Available
+2019,AR,Arkansas,20.2,Available
+2019,AZ,Arizona,14.9,Available
+2019,CA,California,10.0,Available
+2019,CO,Colorado,13.5,Available
+2019,CT,Connecticut,12.1,Available
+2019,DC,District of Columbia,12.7,Available
+2019,DE,Delaware,15.9,Available
+2019,FL,Florida,14.8,Available
+2019,GA,Georgia,16.3,Available
+2019,HI,Hawaii,12.3,Available
+2019,IA,Iowa,16.4,Available
+2019,ID,Idaho,15.3,Available
+2019,IL,Illinois,14.5,Available
+2019,IN,Indiana,19.2,Available
+2019,KS,Kansas,16.2,Available
+2019,KY,Kentucky,23.6,Available
+2019,LA,Louisiana,21.9,Available
+2019,MA,Massachusetts,12.0,Available
+2019,MD,Maryland,12.7,Available
+2019,ME,Maine,17.6,Available
+2019,MI,Michigan,18.7,Available
+2019,MN,Minnesota,14.6,Available
+2019,MO,Missouri,19.6,Available
+2019,MS,Mississippi,20.4,Available
+2019,MT,Montana,16.6,Available
+2019,NC,North Carolina,18.5,Available
+2019,ND,North Dakota,17.0,Available
+2019,NE,Nebraska,14.7,Available
+2019,NH,New Hampshire,15.9,Available
+2019,NJ,New Jersey,,No source row
+2019,NM,New Mexico,16.0,Available
+2019,NV,Nevada,15.7,Available
+2019,NY,New York,12.6,Available
+2019,OH,Ohio,20.8,Available
+2019,OK,Oklahoma,18.9,Available
+2019,OR,Oregon,14.5,Available
+2019,PA,Pennsylvania,17.3,Available
+2019,RI,Rhode Island,13.3,Available
+2019,SC,South Carolina,17.6,Available
+2019,SD,South Dakota,18.3,Available
+2019,TN,Tennessee,19.9,Available
+2019,TX,Texas,14.7,Available
+2019,UT,Utah,7.9,Available
+2019,VA,Virginia,14.0,Available
+2019,VT,Vermont,15.1,Available
+2019,WA,Washington,12.6,Available
+2019,WI,Wisconsin,15.4,Available
+2019,WV,West Virginia,23.8,Available
+2019,WY,Wyoming,18.4,Available
+2020,AK,Alaska,18.0,Available
+2020,AL,Alabama,18.5,Available
+2020,AR,Arkansas,20.5,Available
+2020,AZ,Arizona,13.1,Available
+2020,CA,California,8.9,Available
+2020,CO,Colorado,12.4,Available
+2020,CT,Connecticut,11.8,Available
+2020,DC,District of Columbia,11.3,Available
+2020,DE,Delaware,15.1,Available
+2020,FL,Florida,14.7,Available
+2020,GA,Georgia,15.8,Available
+2020,HI,Hawaii,11.6,Available
+2020,IA,Iowa,15.8,Available
+2020,ID,Idaho,13.6,Available
+2020,IL,Illinois,12.7,Available
+2020,IN,Indiana,19.4,Available
+2020,KS,Kansas,16.6,Available
+2020,KY,Kentucky,21.4,Available
+2020,LA,Louisiana,18.3,Available
+2020,MA,Massachusetts,11.1,Available
+2020,MD,Maryland,10.9,Available
+2020,ME,Maine,16.5,Available
+2020,MI,Michigan,18.4,Available
+2020,MN,Minnesota,13.8,Available
+2020,MO,Missouri,17.8,Available
+2020,MS,Mississippi,20.1,Available
+2020,MT,Montana,16.4,Available
+2020,NC,North Carolina,16.5,Available
+2020,ND,North Dakota,17.4,Available
+2020,NE,Nebraska,13.9,Available
+2020,NH,New Hampshire,13.9,Available
+2020,NJ,New Jersey,10.8,Available
+2020,NM,New Mexico,16.1,Available
+2020,NV,Nevada,14.2,Available
+2020,NY,New York,12.0,Available
+2020,OH,Ohio,19.3,Available
+2020,OK,Oklahoma,19.1,Available
+2020,OR,Oregon,13.4,Available
+2020,PA,Pennsylvania,15.8,Available
+2020,RI,Rhode Island,13.5,Available
+2020,SC,South Carolina,18.1,Available
+2020,SD,South Dakota,17.8,Available
+2020,TN,Tennessee,19.5,Available
+2020,TX,Texas,13.2,Available
+2020,UT,Utah,8.2,Available
+2020,VA,Virginia,13.6,Available
+2020,VT,Vermont,13.3,Available
+2020,WA,Washington,11.5,Available
+2020,WI,Wisconsin,15.5,Available
+2020,WV,West Virginia,22.6,Available
+2020,WY,Wyoming,18.5,Available
+2021,AK,Alaska,17.1,Available
+2021,AL,Alabama,17.2,Available
+2021,AR,Arkansas,21.1,Available
+2021,AZ,Arizona,13.1,Available
+2021,CA,California,8.8,Available
+2021,CO,Colorado,12.0,Available
+2021,CT,Connecticut,11.1,Available
+2021,DC,District of Columbia,9.5,Available
+2021,DE,Delaware,13.4,Available
+2021,FL,Florida,,No source row
+2021,GA,Georgia,15.0,Available
+2021,HI,Hawaii,10.1,Available
+2021,IA,Iowa,14.6,Available
+2021,ID,Idaho,13.3,Available
+2021,IL,Illinois,12.0,Available
+2021,IN,Indiana,17.3,Available
+2021,KS,Kansas,15.6,Available
+2021,KY,Kentucky,19.6,Available
+2021,LA,Louisiana,19.5,Available
+2021,MA,Massachusetts,10.6,Available
+2021,MD,Maryland,10.1,Available
+2021,ME,Maine,15.6,Available
+2021,MI,Michigan,17.0,Available
+2021,MN,Minnesota,13.4,Available
+2021,MO,Missouri,17.3,Available
+2021,MS,Mississippi,19.6,Available
+2021,MT,Montana,14.4,Available
+2021,NC,North Carolina,14.4,Available
+2021,ND,North Dakota,15.0,Available
+2021,NE,Nebraska,13.4,Available
+2021,NH,New Hampshire,12.3,Available
+2021,NJ,New Jersey,10.7,Available
+2021,NM,New Mexico,13.4,Available
+2021,NV,Nevada,15.5,Available
+2021,NY,New York,12.0,Available
+2021,OH,Ohio,18.0,Available
+2021,OK,Oklahoma,16.9,Available
+2021,OR,Oregon,12.4,Available
+2021,PA,Pennsylvania,14.4,Available
+2021,RI,Rhode Island,12.4,Available
+2021,SC,South Carolina,15.5,Available
+2021,SD,South Dakota,15.3,Available
+2021,TN,Tennessee,19.7,Available
+2021,TX,Texas,13.1,Available
+2021,UT,Utah,7.2,Available
+2021,VA,Virginia,12.4,Available
+2021,VT,Vermont,14.8,Available
+2021,WA,Washington,10.8,Available
+2021,WI,Wisconsin,13.3,Available
+2021,WV,West Virginia,22.0,Available
+2021,WY,Wyoming,16.4,Available
+2022,AK,Alaska,15.9,Available
+2022,AL,Alabama,15.6,Available
+2022,AR,Arkansas,18.7,Available
+2022,AZ,Arizona,12.7,Available
+2022,CA,California,9.7,Available
+2022,CO,Colorado,10.7,Available
+2022,CT,Connecticut,10.0,Available
+2022,DC,District of Columbia,10.6,Available
+2022,DE,Delaware,12.9,Available
+2022,FL,Florida,11.3,Available
+2022,GA,Georgia,12.5,Available
+2022,HI,Hawaii,10.0,Available
+2022,IA,Iowa,14.7,Available
+2022,ID,Idaho,11.9,Available
+2022,IL,Illinois,12.4,Available
+2022,IN,Indiana,16.2,Available
+2022,KS,Kansas,14.5,Available
+2022,KY,Kentucky,17.4,Available
+2022,LA,Louisiana,16.7,Available
+2022,MA,Massachusetts,10.4,Available
+2022,MD,Maryland,9.6,Available
+2022,ME,Maine,15.0,Available
+2022,MI,Michigan,15.2,Available
+2022,MN,Minnesota,13.0,Available
+2022,MO,Missouri,16.8,Available
+2022,MS,Mississippi,17.4,Available
+2022,MT,Montana,15.2,Available
+2022,NC,North Carolina,14.5,Available
+2022,ND,North Dakota,15.1,Available
+2022,NE,Nebraska,13.0,Available
+2022,NH,New Hampshire,11.2,Available
+2022,NJ,New Jersey,10.4,Available
+2022,NM,New Mexico,15.0,Available
+2022,NV,Nevada,14.8,Available
+2022,NY,New York,11.2,Available
+2022,OH,Ohio,17.1,Available
+2022,OK,Oklahoma,15.6,Available
+2022,OR,Oregon,12.4,Available
+2022,PA,Pennsylvania,14.9,Available
+2022,RI,Rhode Island,11.8,Available
+2022,SC,South Carolina,15.4,Available
+2022,SD,South Dakota,14.0,Available
+2022,TN,Tennessee,18.5,Available
+2022,TX,Texas,11.8,Available
+2022,UT,Utah,6.7,Available
+2022,VA,Virginia,12.1,Available
+2022,VT,Vermont,13.0,Available
+2022,WA,Washington,10.0,Available
+2022,WI,Wisconsin,14.2,Available
+2022,WV,West Virginia,21.0,Available
+2022,WY,Wyoming,15.5,Available
+2023,AK,Alaska,15.3,Available
+2023,AL,Alabama,14.2,Available
+2023,AR,Arkansas,15.0,Available
+2023,AZ,Arizona,10.0,Available
+2023,CA,California,8.5,Available
+2023,CO,Colorado,10.2,Available
+2023,CT,Connecticut,8.4,Available
+2023,DC,District of Columbia,9.8,Available
+2023,DE,Delaware,11.4,Available
+2023,FL,Florida,10.5,Available
+2023,GA,Georgia,12.0,Available
+2023,HI,Hawaii,9.0,Available
+2023,IA,Iowa,13.7,Available
+2023,ID,Idaho,10.4,Available
+2023,IL,Illinois,10.8,Available
+2023,IN,Indiana,14.4,Available
+2023,KS,Kansas,13.9,Available
+2023,KY,Kentucky,,No source row
+2023,LA,Louisiana,15.7,Available
+2023,MA,Massachusetts,9.8,Available
+2023,MD,Maryland,9.1,Available
+2023,ME,Maine,14.0,Available
+2023,MI,Michigan,13.6,Available
+2023,MN,Minnesota,12.2,Available
+2023,MO,Missouri,15.3,Available
+2023,MS,Mississippi,15.6,Available
+2023,MT,Montana,12.4,Available
+2023,NC,North Carolina,13.2,Available
+2023,ND,North Dakota,13.4,Available
+2023,NE,Nebraska,12.1,Available
+2023,NH,New Hampshire,10.4,Available
+2023,NJ,New Jersey,9.1,Available
+2023,NM,New Mexico,12.2,Available
+2023,NV,Nevada,14.2,Available
+2023,NY,New York,9.3,Available
+2023,OH,Ohio,15.0,Available
+2023,OK,Oklahoma,15.8,Available
+2023,OR,Oregon,10.6,Available
+2023,PA,Pennsylvania,,No source row
+2023,RI,Rhode Island,9.5,Available
+2023,SC,South Carolina,12.1,Available
+2023,SD,South Dakota,15.2,Available
+2023,TN,Tennessee,17.0,Available
+2023,TX,Texas,11.3,Available
+2023,UT,Utah,5.9,Available
+2023,VA,Virginia,10.9,Available
+2023,VT,Vermont,11.3,Available
+2023,WA,Washington,9.0,Available
+2023,WI,Wisconsin,12.0,Available
+2023,WV,West Virginia,20.4,Available
+2023,WY,Wyoming,14.0,Available

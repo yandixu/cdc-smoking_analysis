@@ -1,0 +1,11 @@
+{
+  "dataset": "CDC BRFSS Prevalence Data (2011 to present)",
+  "dataset_id": "dttw-5yxu",
+  "dataset_url": "https://data.cdc.gov/d/dttw-5yxu",
+  "download_url": "https://data.cdc.gov/resource/dttw-5yxu.json?%24where=questionid+%3D+%22_RFSMOK3%22+AND+responseid+%3D+%22RESP046%22+AND+year+between+%222019%22+and+%222023%22&%24limit=50000&%24order=year%2Clocationabbr%2Cbreakoutcategoryid%2Cbreakoutid",
+  "retrieved_date": "2026-10-20",
+  "sha256": "f0b58036a66bb0d767cfd8b3b1af684945f205886d630ad88b4fed51227d0958",
+  "rows": 7192,
+  "scope": "Historical 2019\u20132023 extract, not the latest available CDC years",
+  "grain": "year \u00d7 location \u00d7 breakout category \u00d7 breakout; aggregate survey estimates, not respondent records"
+}

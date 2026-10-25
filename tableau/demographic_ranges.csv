@@ -1,0 +1,1256 @@
+year,state_code,state_name,category,expected_segments,available_segments,lowest_pct,highest_pct,observed_range_pp,completeness
+2019,AK,Alaska,Age Group,6,6,12.5,22.8,10.3,Complete
+2019,AK,Alaska,Education Attained,4,4,7.5,46.3,38.8,Complete
+2019,AK,Alaska,Household Income,5,5,10.5,40.8,30.299999999999997,Complete
+2019,AK,Alaska,Race/Ethnicity,8,3,14.1,32.7,18.6,Partial
+2019,AK,Alaska,Sex,2,2,15.7,19.0,3.3000000000000007,Complete
+2019,AL,Alabama,Age Group,6,6,10.8,28.4,17.599999999999998,Complete
+2019,AL,Alabama,Education Attained,4,4,8.0,35.1,27.1,Complete
+2019,AL,Alabama,Household Income,5,5,13.2,33.1,19.900000000000002,Complete
+2019,AL,Alabama,Race/Ethnicity,8,5,19.8,31.4,11.599999999999998,Partial
+2019,AL,Alabama,Sex,2,2,18.4,22.4,4.0,Complete
+2019,AR,Arkansas,Age Group,6,6,10.6,28.3,17.700000000000003,Complete
+2019,AR,Arkansas,Education Attained,4,4,7.8,30.6,22.8,Complete
+2019,AR,Arkansas,Household Income,5,5,11.6,37.2,25.6,Complete
+2019,AR,Arkansas,Race/Ethnicity,8,4,20.6,32.4,11.799999999999997,Partial
+2019,AR,Arkansas,Sex,2,2,18.8,21.7,2.8999999999999986,Complete
+2019,AZ,Arizona,Age Group,6,6,8.8,18.6,9.8,Complete
+2019,AZ,Arizona,Education Attained,4,4,6.7,24.7,18.0,Complete
+2019,AZ,Arizona,Household Income,5,5,9.5,30.9,21.4,Complete
+2019,AZ,Arizona,Race/Ethnicity,8,5,14.2,24.1,9.900000000000002,Partial
+2019,AZ,Arizona,Sex,2,2,12.5,17.4,4.899999999999999,Complete
+2019,CA,California,Age Group,6,6,5.7,12.3,6.6000000000000005,Complete
+2019,CA,California,Education Attained,4,4,4.5,13.6,9.1,Complete
+2019,CA,California,Household Income,5,5,7.3,15.2,7.8999999999999995,Complete
+2019,CA,California,Race/Ethnicity,8,7,6.4,24.1,17.700000000000003,Partial
+2019,CA,California,Sex,2,2,7.4,12.7,5.299999999999999,Complete
+2019,CO,Colorado,Age Group,6,6,7.4,17.9,10.499999999999998,Complete
+2019,CO,Colorado,Education Attained,4,4,6.2,21.9,15.7,Complete
+2019,CO,Colorado,Household Income,5,5,9.8,27.8,18.0,Complete
+2019,CO,Colorado,Race/Ethnicity,8,5,12.5,23.9,11.399999999999999,Partial
+2019,CO,Colorado,Sex,2,2,11.9,15.1,3.1999999999999993,Complete
+2019,CT,Connecticut,Age Group,6,6,7.0,17.8,10.8,Complete
+2019,CT,Connecticut,Education Attained,4,4,4.8,19.7,14.899999999999999,Complete
+2019,CT,Connecticut,Household Income,5,5,8.3,28.9,20.599999999999998,Complete
+2019,CT,Connecticut,Race/Ethnicity,8,5,10.6,15.9,5.300000000000001,Partial
+2019,CT,Connecticut,Sex,2,2,10.6,13.7,3.0999999999999996,Complete
+2019,DC,District of Columbia,Age Group,6,5,10.0,18.8,8.8,Partial
+2019,DC,District of Columbia,Education Attained,4,4,5.6,30.3,24.700000000000003,Complete
+2019,DC,District of Columbia,Household Income,5,5,6.8,29.2,22.4,Complete
+2019,DC,District of Columbia,Race/Ethnicity,8,2,6.8,20.4,13.599999999999998,Partial
+2019,DC,District of Columbia,Sex,2,2,9.8,16.1,6.300000000000001,Complete
+2019,DE,Delaware,Age Group,6,6,10.4,21.7,11.299999999999999,Complete
+2019,DE,Delaware,Education Attained,4,4,5.5,24.9,19.4,Complete
+2019,DE,Delaware,Household Income,5,5,10.7,31.1,20.400000000000002,Complete
+2019,DE,Delaware,Race/Ethnicity,8,4,8.6,21.4,12.799999999999999,Partial
+2019,DE,Delaware,Sex,2,2,15.8,16.0,0.1999999999999993,Complete
+2019,FL,Florida,Age Group,6,6,8.1,19.7,11.6,Complete
+2019,FL,Florida,Education Attained,4,4,6.0,23.6,17.6,Complete
+2019,FL,Florida,Household Income,5,5,9.9,28.2,18.299999999999997,Complete
+2019,FL,Florida,Race/Ethnicity,8,5,12.1,24.4,12.299999999999999,Partial
+2019,FL,Florida,Sex,2,2,13.9,15.7,1.799999999999999,Complete
+2019,GA,Georgia,Age Group,6,6,9.6,21.3,11.700000000000001,Complete
+2019,GA,Georgia,Education Attained,4,4,6.8,32.6,25.8,Complete
+2019,GA,Georgia,Household Income,5,5,10.7,27.6,16.900000000000002,Complete
+2019,GA,Georgia,Race/Ethnicity,8,3,14.1,17.9,3.799999999999999,Partial
+2019,GA,Georgia,Sex,2,2,13.8,19.0,5.199999999999999,Complete
+2019,HI,Hawaii,Age Group,6,6,7.8,18.3,10.5,Complete
+2019,HI,Hawaii,Education Attained,4,4,6.3,17.4,11.099999999999998,Complete
+2019,HI,Hawaii,Household Income,5,5,9.7,25.9,16.2,Complete
+2019,HI,Hawaii,Race/Ethnicity,8,5,8.5,19.7,11.2,Partial
+2019,HI,Hawaii,Sex,2,2,9.4,15.2,5.799999999999999,Complete
+2019,IA,Iowa,Age Group,6,6,8.2,22.0,13.8,Complete
+2019,IA,Iowa,Education Attained,4,4,6.3,23.4,17.099999999999998,Complete
+2019,IA,Iowa,Household Income,5,5,12.5,29.5,17.0,Complete
+2019,IA,Iowa,Race/Ethnicity,8,4,8.7,25.7,17.0,Partial
+2019,IA,Iowa,Sex,2,2,14.8,17.9,3.099999999999998,Complete
+2019,ID,Idaho,Age Group,6,6,7.8,20.9,13.099999999999998,Complete
+2019,ID,Idaho,Education Attained,4,4,5.2,31.5,26.3,Complete
+2019,ID,Idaho,Household Income,5,5,10.5,26.5,16.0,Complete
+2019,ID,Idaho,Race/Ethnicity,8,3,13.0,36.9,23.9,Partial
+2019,ID,Idaho,Sex,2,2,13.9,16.8,2.9000000000000004,Complete
+2019,IL,Illinois,Age Group,6,6,7.4,19.6,12.200000000000001,Complete
+2019,IL,Illinois,Education Attained,4,4,6.8,20.5,13.7,Complete
+2019,IL,Illinois,Household Income,5,5,10.7,24.9,14.2,Complete
+2019,IL,Illinois,Race/Ethnicity,8,5,10.2,21.9,11.7,Partial
+2019,IL,Illinois,Sex,2,2,12.1,17.0,4.9,Complete
+2019,IN,Indiana,Age Group,6,6,10.5,25.8,15.3,Complete
+2019,IN,Indiana,Education Attained,4,4,6.4,33.4,27.0,Complete
+2019,IN,Indiana,Household Income,5,5,12.7,34.2,21.500000000000004,Complete
+2019,IN,Indiana,Race/Ethnicity,8,5,13.8,46.1,32.3,Partial
+2019,IN,Indiana,Sex,2,2,17.3,21.2,3.8999999999999986,Complete
+2019,KS,Kansas,Age Group,6,6,8.3,21.6,13.3,Complete
+2019,KS,Kansas,Education Attained,4,4,6.5,34.5,28.0,Complete
+2019,KS,Kansas,Household Income,5,5,10.9,38.7,27.800000000000004,Complete
+2019,KS,Kansas,Race/Ethnicity,8,5,15.3,37.4,22.099999999999998,Partial
+2019,KS,Kansas,Sex,2,2,16.0,16.4,0.3999999999999986,Complete
+2019,KY,Kentucky,Age Group,6,6,12.2,31.9,19.7,Complete
+2019,KY,Kentucky,Education Attained,4,4,10.0,39.0,29.0,Complete
+2019,KY,Kentucky,Household Income,5,5,18.0,45.2,27.200000000000003,Complete
+2019,KY,Kentucky,Race/Ethnicity,8,5,22.5,50.5,28.0,Partial
+2019,KY,Kentucky,Sex,2,2,22.0,25.1,3.1000000000000014,Complete
+2019,LA,Louisiana,Age Group,6,6,12.4,28.7,16.299999999999997,Complete
+2019,LA,Louisiana,Education Attained,4,4,8.8,40.6,31.8,Complete
+2019,LA,Louisiana,Household Income,5,5,14.3,41.1,26.8,Complete
+2019,LA,Louisiana,Race/Ethnicity,8,4,21.8,30.3,8.5,Partial
+2019,LA,Louisiana,Sex,2,2,19.8,24.1,4.300000000000001,Complete
+2019,MA,Massachusetts,Age Group,6,6,7.9,14.9,7.0,Complete
+2019,MA,Massachusetts,Education Attained,4,4,5.1,20.0,14.9,Complete
+2019,MA,Massachusetts,Household Income,5,5,9.6,26.3,16.700000000000003,Complete
+2019,MA,Massachusetts,Race/Ethnicity,8,4,12.2,16.0,3.8000000000000007,Partial
+2019,MA,Massachusetts,Sex,2,2,9.8,14.5,4.699999999999999,Complete
+2019,MD,Maryland,Age Group,6,6,5.8,17.9,12.099999999999998,Complete
+2019,MD,Maryland,Education Attained,4,4,4.3,24.9,20.599999999999998,Complete
+2019,MD,Maryland,Household Income,5,5,8.6,25.4,16.799999999999997,Complete
+2019,MD,Maryland,Race/Ethnicity,8,7,5.3,31.6,26.3,Partial
+2019,MD,Maryland,Sex,2,2,11.3,14.2,2.8999999999999986,Complete
+2019,ME,Maine,Age Group,6,6,7.6,26.3,18.700000000000003,Complete
+2019,ME,Maine,Education Attained,4,4,5.5,42.1,36.6,Complete
+2019,ME,Maine,Household Income,5,5,10.1,38.1,28.0,Complete
+2019,ME,Maine,Race/Ethnicity,8,4,17.3,45.2,27.900000000000002,Partial
+2019,ME,Maine,Sex,2,2,15.4,19.9,4.499999999999998,Complete
+2019,MI,Michigan,Age Group,6,6,9.8,25.8,16.0,Complete
+2019,MI,Michigan,Education Attained,4,4,6.9,38.0,31.1,Complete
+2019,MI,Michigan,Household Income,5,5,12.0,38.1,26.1,Complete
+2019,MI,Michigan,Race/Ethnicity,8,5,17.9,37.6,19.700000000000003,Partial
+2019,MI,Michigan,Sex,2,2,17.2,20.2,3.0,Complete
+2019,MN,Minnesota,Age Group,6,6,8.1,19.8,11.700000000000001,Complete
+2019,MN,Minnesota,Education Attained,4,4,5.5,30.2,24.7,Complete
+2019,MN,Minnesota,Household Income,5,5,10.5,27.3,16.8,Complete
+2019,MN,Minnesota,Race/Ethnicity,8,6,13.8,36.7,22.900000000000002,Partial
+2019,MN,Minnesota,Sex,2,2,13.0,16.3,3.3000000000000007,Complete
+2019,MO,Missouri,Age Group,6,6,10.8,26.1,15.3,Complete
+2019,MO,Missouri,Education Attained,4,4,7.2,38.2,31.000000000000004,Complete
+2019,MO,Missouri,Household Income,5,5,12.7,39.0,26.3,Complete
+2019,MO,Missouri,Race/Ethnicity,8,5,18.3,45.9,27.599999999999998,Partial
+2019,MO,Missouri,Sex,2,2,18.7,20.6,1.9000000000000021,Complete
+2019,MS,Mississippi,Age Group,6,6,10.7,27.6,16.900000000000002,Complete
+2019,MS,Mississippi,Education Attained,4,4,8.7,30.9,22.2,Complete
+2019,MS,Mississippi,Household Income,5,5,15.2,31.3,16.1,Complete
+2019,MS,Mississippi,Race/Ethnicity,8,2,18.2,20.6,2.400000000000002,Partial
+2019,MS,Mississippi,Sex,2,2,16.9,24.2,7.300000000000001,Complete
+2019,MT,Montana,Age Group,6,6,9.0,26.6,17.6,Complete
+2019,MT,Montana,Education Attained,4,4,6.0,31.5,25.5,Complete
+2019,MT,Montana,Household Income,5,5,10.5,32.9,22.4,Complete
+2019,MT,Montana,Race/Ethnicity,8,4,14.5,41.4,26.9,Partial
+2019,MT,Montana,Sex,2,2,16.5,16.7,0.1999999999999993,Complete
+2019,NC,North Carolina,Age Group,6,6,10.6,25.2,14.6,Complete
+2019,NC,North Carolina,Education Attained,4,4,7.1,28.4,21.299999999999997,Complete
+2019,NC,North Carolina,Household Income,5,5,14.2,32.0,17.8,Complete
+2019,NC,North Carolina,Race/Ethnicity,8,5,10.3,27.0,16.7,Partial
+2019,NC,North Carolina,Sex,2,2,16.4,20.7,4.300000000000001,Complete
+2019,ND,North Dakota,Age Group,6,6,10.1,21.6,11.500000000000002,Complete
+2019,ND,North Dakota,Education Attained,4,4,7.4,27.7,20.299999999999997,Complete
+2019,ND,North Dakota,Household Income,5,5,14.0,30.6,16.6,Complete
+2019,ND,North Dakota,Race/Ethnicity,8,4,14.8,35.1,20.3,Partial
+2019,ND,North Dakota,Sex,2,2,16.0,18.1,2.1000000000000014,Complete
+2019,NE,Nebraska,Age Group,6,6,7.7,19.9,12.2,Complete
+2019,NE,Nebraska,Education Attained,4,4,6.1,24.1,18.0,Complete
+2019,NE,Nebraska,Household Income,5,5,10.6,26.2,15.6,Complete
+2019,NE,Nebraska,Race/Ethnicity,8,5,13.1,20.4,7.299999999999999,Partial
+2019,NE,Nebraska,Sex,2,2,13.6,15.7,2.0999999999999996,Complete
+2019,NH,New Hampshire,Age Group,6,6,7.1,27.6,20.5,Complete
+2019,NH,New Hampshire,Education Attained,4,4,4.9,42.4,37.5,Complete
+2019,NH,New Hampshire,Household Income,5,5,10.1,40.2,30.1,Complete
+2019,NH,New Hampshire,Race/Ethnicity,8,2,15.4,33.3,17.9,Partial
+2019,NH,New Hampshire,Sex,2,2,14.7,17.0,2.3000000000000007,Complete
+2019,NM,New Mexico,Age Group,6,6,9.0,21.8,12.8,Complete
+2019,NM,New Mexico,Education Attained,4,4,6.1,25.7,19.6,Complete
+2019,NM,New Mexico,Household Income,5,5,10.3,23.1,12.8,Complete
+2019,NM,New Mexico,Race/Ethnicity,8,4,12.1,27.4,15.299999999999999,Partial
+2019,NM,New Mexico,Sex,2,2,13.8,18.3,4.5,Complete
+2019,NV,Nevada,Age Group,6,6,10.0,21.7,11.7,Complete
+2019,NV,Nevada,Education Attained,4,4,8.8,19.5,10.7,Complete
+2019,NV,Nevada,Household Income,5,5,12.6,30.1,17.5,Complete
+2019,NV,Nevada,Race/Ethnicity,8,4,10.7,34.5,23.8,Partial
+2019,NV,Nevada,Sex,2,2,13.9,17.5,3.5999999999999996,Complete
+2019,NY,New York,Age Group,6,6,7.0,16.8,9.8,Complete
+2019,NY,New York,Education Attained,4,4,6.0,18.1,12.100000000000001,Complete
+2019,NY,New York,Household Income,5,5,10.3,19.3,9.0,Complete
+2019,NY,New York,Race/Ethnicity,8,7,9.8,29.5,19.7,Partial
+2019,NY,New York,Sex,2,2,11.3,14.2,2.8999999999999986,Complete
+2019,OH,Ohio,Age Group,6,6,10.1,29.2,19.1,Complete
+2019,OH,Ohio,Education Attained,4,4,9.0,41.8,32.8,Complete
+2019,OH,Ohio,Household Income,5,5,15.2,37.2,22.000000000000004,Complete
+2019,OH,Ohio,Race/Ethnicity,8,4,19.8,26.2,6.399999999999999,Partial
+2019,OH,Ohio,Sex,2,2,20.0,21.6,1.6000000000000014,Complete
+2019,OK,Oklahoma,Age Group,6,6,11.6,23.2,11.6,Complete
+2019,OK,Oklahoma,Education Attained,4,4,6.6,35.0,28.4,Complete
+2019,OK,Oklahoma,Household Income,5,5,12.8,33.5,20.7,Complete
+2019,OK,Oklahoma,Race/Ethnicity,8,5,14.5,30.6,16.1,Partial
+2019,OK,Oklahoma,Sex,2,2,16.8,21.1,4.300000000000001,Complete
+2019,OR,Oregon,Age Group,6,6,9.3,17.9,8.599999999999998,Complete
+2019,OR,Oregon,Education Attained,4,4,6.4,23.7,17.299999999999997,Complete
+2019,OR,Oregon,Household Income,5,5,8.8,29.5,20.7,Complete
+2019,OR,Oregon,Race/Ethnicity,8,4,11.0,27.6,16.6,Partial
+2019,OR,Oregon,Sex,2,2,13.6,15.4,1.8000000000000007,Complete
+2019,PA,Pennsylvania,Age Group,6,6,10.6,21.5,10.9,Complete
+2019,PA,Pennsylvania,Education Attained,4,4,6.8,28.4,21.599999999999998,Complete
+2019,PA,Pennsylvania,Household Income,5,5,11.0,28.8,17.8,Complete
+2019,PA,Pennsylvania,Race/Ethnicity,8,4,16.9,25.1,8.200000000000003,Partial
+2019,PA,Pennsylvania,Sex,2,2,16.5,18.2,1.6999999999999993,Complete
+2019,RI,Rhode Island,Age Group,6,6,7.1,17.0,9.9,Complete
+2019,RI,Rhode Island,Education Attained,4,4,5.0,21.4,16.4,Complete
+2019,RI,Rhode Island,Household Income,5,5,8.9,28.1,19.200000000000003,Complete
+2019,RI,Rhode Island,Race/Ethnicity,8,3,11.5,13.8,2.3000000000000007,Partial
+2019,RI,Rhode Island,Sex,2,2,11.4,15.3,3.9000000000000004,Complete
+2019,SC,South Carolina,Age Group,6,6,9.8,23.7,13.899999999999999,Complete
+2019,SC,South Carolina,Education Attained,4,4,6.1,35.6,29.5,Complete
+2019,SC,South Carolina,Household Income,5,5,11.2,32.2,21.000000000000004,Complete
+2019,SC,South Carolina,Race/Ethnicity,8,5,12.9,30.7,17.799999999999997,Partial
+2019,SC,South Carolina,Sex,2,2,15.8,19.5,3.6999999999999993,Complete
+2019,SD,South Dakota,Age Group,6,6,9.9,24.5,14.6,Complete
+2019,SD,South Dakota,Education Attained,4,4,7.8,39.5,31.7,Complete
+2019,SD,South Dakota,Household Income,5,5,11.3,36.1,24.8,Complete
+2019,SD,South Dakota,Race/Ethnicity,8,3,16.0,43.9,27.9,Partial
+2019,SD,South Dakota,Sex,2,2,17.8,18.8,1.0,Complete
+2019,TN,Tennessee,Age Group,6,6,11.1,29.8,18.700000000000003,Complete
+2019,TN,Tennessee,Education Attained,4,4,7.5,36.9,29.4,Complete
+2019,TN,Tennessee,Household Income,5,5,12.0,32.8,20.799999999999997,Complete
+2019,TN,Tennessee,Race/Ethnicity,8,5,19.6,34.0,14.399999999999999,Partial
+2019,TN,Tennessee,Sex,2,2,18.9,20.9,2.0,Complete
+2019,TX,Texas,Age Group,6,6,10.9,18.0,7.1,Complete
+2019,TX,Texas,Education Attained,4,4,5.3,25.6,20.3,Complete
+2019,TX,Texas,Household Income,5,5,10.8,22.0,11.2,Complete
+2019,TX,Texas,Race/Ethnicity,8,4,14.5,27.6,13.100000000000001,Partial
+2019,TX,Texas,Sex,2,2,11.3,18.2,6.899999999999999,Complete
+2019,UT,Utah,Age Group,6,6,4.0,10.2,6.199999999999999,Complete
+2019,UT,Utah,Education Attained,4,4,2.1,14.4,12.3,Complete
+2019,UT,Utah,Household Income,5,5,5.8,14.4,8.600000000000001,Complete
+2019,UT,Utah,Race/Ethnicity,8,4,7.4,17.3,9.9,Partial
+2019,UT,Utah,Sex,2,2,5.8,10.0,4.2,Complete
+2019,VA,Virginia,Age Group,6,6,8.2,19.6,11.400000000000002,Complete
+2019,VA,Virginia,Education Attained,4,4,5.8,24.0,18.2,Complete
+2019,VA,Virginia,Household Income,5,5,9.5,26.5,17.0,Complete
+2019,VA,Virginia,Race/Ethnicity,8,4,7.8,21.1,13.3,Partial
+2019,VA,Virginia,Sex,2,2,12.8,15.3,2.5,Complete
+2019,VT,Vermont,Age Group,6,6,8.3,22.0,13.7,Complete
+2019,VT,Vermont,Education Attained,4,4,4.9,36.2,31.300000000000004,Complete
+2019,VT,Vermont,Household Income,5,5,9.7,28.2,18.5,Complete
+2019,VT,Vermont,Race/Ethnicity,8,2,15.3,21.3,6.0,Partial
+2019,VT,Vermont,Sex,2,2,13.8,16.5,2.6999999999999993,Complete
+2019,WA,Washington,Age Group,6,6,7.7,15.3,7.6000000000000005,Complete
+2019,WA,Washington,Education Attained,4,4,5.0,21.5,16.5,Complete
+2019,WA,Washington,Household Income,5,5,9.0,34.2,25.200000000000003,Complete
+2019,WA,Washington,Race/Ethnicity,8,7,6.7,32.8,26.099999999999998,Partial
+2019,WA,Washington,Sex,2,2,11.7,13.6,1.9000000000000004,Complete
+2019,WI,Wisconsin,Age Group,6,6,7.2,21.0,13.8,Complete
+2019,WI,Wisconsin,Education Attained,4,4,5.9,27.4,21.5,Complete
+2019,WI,Wisconsin,Household Income,5,5,9.6,30.8,21.200000000000003,Complete
+2019,WI,Wisconsin,Race/Ethnicity,8,5,10.6,35.6,25.0,Partial
+2019,WI,Wisconsin,Sex,2,2,13.6,17.2,3.5999999999999996,Complete
+2019,WV,West Virginia,Age Group,6,6,11.6,36.9,25.299999999999997,Complete
+2019,WV,West Virginia,Education Attained,4,4,9.9,39.3,29.4,Complete
+2019,WV,West Virginia,Household Income,5,5,14.1,41.6,27.5,Complete
+2019,WV,West Virginia,Race/Ethnicity,8,3,23.2,35.0,11.8,Partial
+2019,WV,West Virginia,Sex,2,2,23.2,24.4,1.1999999999999993,Complete
+2019,WY,Wyoming,Age Group,6,6,10.2,25.1,14.900000000000002,Complete
+2019,WY,Wyoming,Education Attained,4,4,6.0,39.5,33.5,Complete
+2019,WY,Wyoming,Household Income,5,5,12.6,33.7,21.1,Complete
+2019,WY,Wyoming,Race/Ethnicity,8,4,17.1,46.8,29.699999999999996,Partial
+2019,WY,Wyoming,Sex,2,2,17.9,18.9,1.0,Complete
+2020,AK,Alaska,Age Group,6,6,8.1,26.2,18.1,Complete
+2020,AK,Alaska,Education Attained,4,4,4.9,45.9,41.0,Complete
+2020,AK,Alaska,Household Income,5,4,11.9,53.4,41.5,Partial
+2020,AK,Alaska,Race/Ethnicity,8,3,14.5,36.3,21.799999999999997,Partial
+2020,AK,Alaska,Sex,2,2,17.9,18.1,0.20000000000000284,Complete
+2020,AL,Alabama,Age Group,6,6,9.9,27.8,17.9,Complete
+2020,AL,Alabama,Education Attained,4,4,7.1,35.9,28.799999999999997,Complete
+2020,AL,Alabama,Household Income,5,5,11.9,35.9,24.0,Complete
+2020,AL,Alabama,Race/Ethnicity,8,5,17.9,36.6,18.700000000000003,Partial
+2020,AL,Alabama,Sex,2,2,16.6,20.5,3.8999999999999986,Complete
+2020,AR,Arkansas,Age Group,6,6,11.7,30.4,18.7,Complete
+2020,AR,Arkansas,Education Attained,4,4,7.8,33.1,25.3,Complete
+2020,AR,Arkansas,Household Income,5,5,13.5,29.6,16.1,Complete
+2020,AR,Arkansas,Race/Ethnicity,8,5,19.0,40.4,21.4,Partial
+2020,AR,Arkansas,Sex,2,2,18.8,22.2,3.3999999999999986,Complete
+2020,AZ,Arizona,Age Group,6,6,6.9,18.3,11.4,Complete
+2020,AZ,Arizona,Education Attained,4,4,6.4,22.6,16.200000000000003,Complete
+2020,AZ,Arizona,Household Income,5,5,8.5,26.5,18.0,Complete
+2020,AZ,Arizona,Race/Ethnicity,8,6,12.1,21.0,8.9,Partial
+2020,AZ,Arizona,Sex,2,2,10.4,15.9,5.5,Complete
+2020,CA,California,Age Group,6,6,5.4,12.5,7.1,Complete
+2020,CA,California,Education Attained,4,4,4.2,12.5,8.3,Complete
+2020,CA,California,Household Income,5,5,7.0,15.0,8.0,Complete
+2020,CA,California,Race/Ethnicity,8,4,7.2,18.9,11.7,Partial
+2020,CA,California,Sex,2,2,6.7,11.1,4.3999999999999995,Complete
+2020,CO,Colorado,Age Group,6,6,7.3,16.0,8.7,Complete
+2020,CO,Colorado,Education Attained,4,4,4.9,24.7,19.799999999999997,Complete
+2020,CO,Colorado,Household Income,5,5,8.5,26.0,17.5,Complete
+2020,CO,Colorado,Race/Ethnicity,8,6,11.6,26.4,14.799999999999999,Partial
+2020,CO,Colorado,Sex,2,2,11.4,13.4,2.0,Complete
+2020,CT,Connecticut,Age Group,6,6,6.7,17.7,11.0,Complete
+2020,CT,Connecticut,Education Attained,4,4,4.2,22.8,18.6,Complete
+2020,CT,Connecticut,Household Income,5,5,8.0,28.4,20.4,Complete
+2020,CT,Connecticut,Race/Ethnicity,8,4,11.1,15.6,4.5,Partial
+2020,CT,Connecticut,Sex,2,2,10.5,13.3,2.8000000000000007,Complete
+2020,DC,District of Columbia,Age Group,6,5,8.8,19.8,11.0,Partial
+2020,DC,District of Columbia,Education Attained,4,4,4.5,28.2,23.7,Complete
+2020,DC,District of Columbia,Household Income,5,4,6.4,26.6,20.200000000000003,Partial
+2020,DC,District of Columbia,Race/Ethnicity,8,2,5.7,18.0,12.3,Partial
+2020,DC,District of Columbia,Sex,2,2,11.2,11.6,0.40000000000000036,Complete
+2020,DE,Delaware,Age Group,6,6,7.3,23.6,16.3,Complete
+2020,DE,Delaware,Education Attained,4,4,5.6,27.9,22.299999999999997,Complete
+2020,DE,Delaware,Household Income,5,5,10.4,28.2,17.799999999999997,Complete
+2020,DE,Delaware,Race/Ethnicity,8,4,14.0,16.8,2.8000000000000007,Partial
+2020,DE,Delaware,Sex,2,2,12.6,18.0,5.4,Complete
+2020,FL,Florida,Age Group,6,6,5.9,21.7,15.799999999999999,Complete
+2020,FL,Florida,Education Attained,4,4,6.7,22.2,15.5,Complete
+2020,FL,Florida,Household Income,5,5,10.8,24.0,13.2,Complete
+2020,FL,Florida,Race/Ethnicity,8,5,13.2,26.7,13.5,Partial
+2020,FL,Florida,Sex,2,2,12.0,17.6,5.600000000000001,Complete
+2020,GA,Georgia,Age Group,6,6,8.0,22.5,14.5,Complete
+2020,GA,Georgia,Education Attained,4,4,5.9,28.7,22.799999999999997,Complete
+2020,GA,Georgia,Household Income,5,5,11.1,31.4,20.299999999999997,Complete
+2020,GA,Georgia,Race/Ethnicity,8,5,10.9,30.8,19.9,Partial
+2020,GA,Georgia,Sex,2,2,13.5,18.3,4.800000000000001,Complete
+2020,HI,Hawaii,Age Group,6,6,7.6,17.5,9.9,Complete
+2020,HI,Hawaii,Education Attained,4,4,4.6,21.9,17.299999999999997,Complete
+2020,HI,Hawaii,Household Income,5,5,7.7,25.7,18.0,Complete
+2020,HI,Hawaii,Race/Ethnicity,8,5,8.8,16.7,7.899999999999999,Partial
+2020,HI,Hawaii,Sex,2,2,11.1,12.1,1.0,Complete
+2020,IA,Iowa,Age Group,6,6,7.7,22.9,15.2,Complete
+2020,IA,Iowa,Education Attained,4,4,5.5,25.7,20.2,Complete
+2020,IA,Iowa,Household Income,5,5,11.0,33.8,22.799999999999997,Complete
+2020,IA,Iowa,Race/Ethnicity,8,4,11.7,37.8,26.099999999999998,Partial
+2020,IA,Iowa,Sex,2,2,14.5,17.1,2.6000000000000014,Complete
+2020,ID,Idaho,Age Group,6,6,7.2,17.4,10.2,Complete
+2020,ID,Idaho,Education Attained,4,4,4.8,25.0,20.2,Complete
+2020,ID,Idaho,Household Income,5,5,8.0,29.0,21.0,Complete
+2020,ID,Idaho,Race/Ethnicity,8,3,13.4,23.0,9.6,Partial
+2020,ID,Idaho,Sex,2,2,13.0,14.3,1.3000000000000007,Complete
+2020,IL,Illinois,Age Group,6,6,9.6,17.6,8.000000000000002,Complete
+2020,IL,Illinois,Education Attained,4,4,4.5,20.4,15.899999999999999,Complete
+2020,IL,Illinois,Household Income,5,5,9.0,26.4,17.4,Complete
+2020,IL,Illinois,Race/Ethnicity,8,3,6.4,17.6,11.200000000000001,Partial
+2020,IL,Illinois,Sex,2,2,11.5,14.0,2.5,Complete
+2020,IN,Indiana,Age Group,6,6,11.2,25.3,14.100000000000001,Complete
+2020,IN,Indiana,Education Attained,4,4,6.8,40.8,34.0,Complete
+2020,IN,Indiana,Household Income,5,5,13.3,34.3,20.999999999999996,Complete
+2020,IN,Indiana,Race/Ethnicity,8,5,11.1,45.7,34.6,Partial
+2020,IN,Indiana,Sex,2,2,18.1,20.8,2.6999999999999993,Complete
+2020,KS,Kansas,Age Group,6,6,9.4,21.6,12.200000000000001,Complete
+2020,KS,Kansas,Education Attained,4,4,6.1,34.4,28.299999999999997,Complete
+2020,KS,Kansas,Household Income,5,5,10.9,36.1,25.200000000000003,Complete
+2020,KS,Kansas,Race/Ethnicity,8,5,15.6,36.0,20.4,Partial
+2020,KS,Kansas,Sex,2,2,15.1,18.2,3.0999999999999996,Complete
+2020,KY,Kentucky,Age Group,6,6,12.3,28.6,16.3,Complete
+2020,KY,Kentucky,Education Attained,4,4,7.2,39.2,32.0,Complete
+2020,KY,Kentucky,Household Income,5,5,13.8,35.0,21.2,Complete
+2020,KY,Kentucky,Race/Ethnicity,8,3,21.3,35.7,14.400000000000002,Partial
+2020,KY,Kentucky,Sex,2,2,20.5,22.3,1.8000000000000007,Complete
+2020,LA,Louisiana,Age Group,6,6,10.3,25.7,15.399999999999999,Complete
+2020,LA,Louisiana,Education Attained,4,4,7.5,34.8,27.299999999999997,Complete
+2020,LA,Louisiana,Household Income,5,5,12.7,30.2,17.5,Complete
+2020,LA,Louisiana,Race/Ethnicity,8,4,13.8,25.1,11.3,Partial
+2020,LA,Louisiana,Sex,2,2,16.3,20.5,4.199999999999999,Complete
+2020,MA,Massachusetts,Age Group,6,6,6.8,14.0,7.2,Complete
+2020,MA,Massachusetts,Education Attained,4,4,4.7,20.2,15.5,Complete
+2020,MA,Massachusetts,Household Income,5,5,8.3,24.6,16.3,Complete
+2020,MA,Massachusetts,Race/Ethnicity,8,5,5.5,26.1,20.6,Partial
+2020,MA,Massachusetts,Sex,2,2,9.5,12.8,3.3000000000000007,Complete
+2020,MD,Maryland,Age Group,6,6,5.2,15.2,10.0,Complete
+2020,MD,Maryland,Education Attained,4,4,4.0,21.7,17.7,Complete
+2020,MD,Maryland,Household Income,5,5,7.8,23.6,15.8,Complete
+2020,MD,Maryland,Race/Ethnicity,8,6,5.1,14.7,9.6,Partial
+2020,MD,Maryland,Sex,2,2,8.8,13.2,4.399999999999999,Complete
+2020,ME,Maine,Age Group,6,6,8.8,24.8,16.0,Complete
+2020,ME,Maine,Education Attained,4,4,5.4,37.3,31.9,Complete
+2020,ME,Maine,Household Income,5,5,9.8,42.6,32.8,Complete
+2020,ME,Maine,Race/Ethnicity,8,2,16.3,47.0,30.7,Partial
+2020,ME,Maine,Sex,2,2,15.8,17.3,1.5,Complete
+2020,MI,Michigan,Age Group,6,6,9.9,24.4,14.499999999999998,Complete
+2020,MI,Michigan,Education Attained,4,4,6.5,42.8,36.3,Complete
+2020,MI,Michigan,Household Income,5,5,12.2,37.0,24.8,Complete
+2020,MI,Michigan,Race/Ethnicity,8,6,18.1,43.9,25.799999999999997,Partial
+2020,MI,Michigan,Sex,2,2,17.2,19.7,2.5,Complete
+2020,MN,Minnesota,Age Group,6,6,7.8,18.7,10.899999999999999,Complete
+2020,MN,Minnesota,Education Attained,4,4,5.5,27.0,21.5,Complete
+2020,MN,Minnesota,Household Income,5,5,10.1,29.8,19.700000000000003,Complete
+2020,MN,Minnesota,Race/Ethnicity,8,7,6.5,42.0,35.5,Partial
+2020,MN,Minnesota,Sex,2,2,12.8,15.0,2.1999999999999993,Complete
+2020,MO,Missouri,Age Group,6,6,9.9,25.8,15.9,Complete
+2020,MO,Missouri,Education Attained,4,4,6.2,37.0,30.8,Complete
+2020,MO,Missouri,Household Income,5,5,10.6,36.1,25.5,Complete
+2020,MO,Missouri,Race/Ethnicity,8,5,17.2,30.8,13.600000000000001,Partial
+2020,MO,Missouri,Sex,2,2,16.9,18.6,1.7000000000000028,Complete
+2020,MS,Mississippi,Age Group,6,6,10.7,27.0,16.3,Complete
+2020,MS,Mississippi,Education Attained,4,4,8.3,35.0,26.7,Complete
+2020,MS,Mississippi,Household Income,5,5,13.5,34.6,21.1,Complete
+2020,MS,Mississippi,Race/Ethnicity,8,3,19.2,24.2,5.0,Partial
+2020,MS,Mississippi,Sex,2,2,17.1,23.4,6.299999999999997,Complete
+2020,MT,Montana,Age Group,6,6,10.2,24.3,14.100000000000001,Complete
+2020,MT,Montana,Education Attained,4,4,6.2,38.8,32.599999999999994,Complete
+2020,MT,Montana,Household Income,5,5,9.5,35.0,25.5,Complete
+2020,MT,Montana,Race/Ethnicity,8,4,14.5,40.0,25.5,Partial
+2020,MT,Montana,Sex,2,2,16.2,16.6,0.40000000000000213,Complete
+2020,NC,North Carolina,Age Group,6,6,8.4,21.2,12.799999999999999,Complete
+2020,NC,North Carolina,Education Attained,4,4,6.2,27.6,21.400000000000002,Complete
+2020,NC,North Carolina,Household Income,5,5,10.2,35.4,25.2,Complete
+2020,NC,North Carolina,Race/Ethnicity,8,5,8.9,30.2,21.299999999999997,Partial
+2020,NC,North Carolina,Sex,2,2,14.4,18.8,4.4,Complete
+2020,ND,North Dakota,Age Group,6,6,9.8,22.4,12.599999999999998,Complete
+2020,ND,North Dakota,Education Attained,4,4,6.5,39.2,32.7,Complete
+2020,ND,North Dakota,Household Income,5,5,13.1,31.9,18.799999999999997,Complete
+2020,ND,North Dakota,Race/Ethnicity,8,4,16.1,38.8,22.699999999999996,Partial
+2020,ND,North Dakota,Sex,2,2,15.8,18.9,3.099999999999998,Complete
+2020,NE,Nebraska,Age Group,6,6,7.2,18.3,11.100000000000001,Complete
+2020,NE,Nebraska,Education Attained,4,4,5.2,20.6,15.400000000000002,Complete
+2020,NE,Nebraska,Household Income,5,5,10.5,27.0,16.5,Complete
+2020,NE,Nebraska,Race/Ethnicity,8,5,12.2,41.3,29.099999999999998,Partial
+2020,NE,Nebraska,Sex,2,2,12.4,15.6,3.1999999999999993,Complete
+2020,NH,New Hampshire,Age Group,6,6,8.6,19.2,10.6,Complete
+2020,NH,New Hampshire,Education Attained,4,4,5.2,44.9,39.699999999999996,Complete
+2020,NH,New Hampshire,Household Income,5,5,9.2,36.5,27.3,Complete
+2020,NH,New Hampshire,Race/Ethnicity,8,3,13.5,31.5,18.0,Partial
+2020,NH,New Hampshire,Sex,2,2,12.7,15.1,2.4000000000000004,Complete
+2020,NJ,New Jersey,Age Group,6,6,4.4,14.1,9.7,Complete
+2020,NJ,New Jersey,Education Attained,4,4,5.2,19.4,14.2,Complete
+2020,NJ,New Jersey,Household Income,5,5,8.4,18.6,10.200000000000001,Complete
+2020,NJ,New Jersey,Race/Ethnicity,8,6,6.3,15.4,9.100000000000001,Partial
+2020,NJ,New Jersey,Sex,2,2,8.6,13.2,4.6,Complete
+2020,NM,New Mexico,Age Group,6,6,9.7,23.0,13.3,Complete
+2020,NM,New Mexico,Education Attained,4,4,6.3,27.1,20.8,Complete
+2020,NM,New Mexico,Household Income,5,5,10.6,27.3,16.700000000000003,Complete
+2020,NM,New Mexico,Race/Ethnicity,8,4,9.9,27.8,17.9,Partial
+2020,NM,New Mexico,Sex,2,2,13.4,18.9,5.499999999999998,Complete
+2020,NV,Nevada,Age Group,6,5,13.4,19.3,5.9,Partial
+2020,NV,Nevada,Education Attained,4,4,7.7,18.0,10.3,Complete
+2020,NV,Nevada,Household Income,5,5,8.7,33.9,25.2,Complete
+2020,NV,Nevada,Race/Ethnicity,8,3,10.9,16.3,5.4,Partial
+2020,NV,Nevada,Sex,2,2,11.9,16.6,4.700000000000001,Complete
+2020,NY,New York,Age Group,6,6,5.5,15.9,10.4,Complete
+2020,NY,New York,Education Attained,4,4,5.4,19.0,13.6,Complete
+2020,NY,New York,Household Income,5,5,8.7,20.7,12.0,Complete
+2020,NY,New York,Race/Ethnicity,8,6,8.9,17.4,8.499999999999998,Partial
+2020,NY,New York,Sex,2,2,10.0,14.2,4.199999999999999,Complete
+2020,OH,Ohio,Age Group,6,6,10.4,26.6,16.200000000000003,Complete
+2020,OH,Ohio,Education Attained,4,4,6.6,40.3,33.699999999999996,Complete
+2020,OH,Ohio,Household Income,5,5,12.2,40.6,28.400000000000002,Complete
+2020,OH,Ohio,Race/Ethnicity,8,6,16.2,29.9,13.7,Partial
+2020,OH,Ohio,Sex,2,2,18.8,19.8,1.0,Complete
+2020,OK,Oklahoma,Age Group,6,6,11.0,23.5,12.5,Complete
+2020,OK,Oklahoma,Education Attained,4,4,7.4,33.5,26.1,Complete
+2020,OK,Oklahoma,Household Income,5,5,11.6,33.1,21.5,Complete
+2020,OK,Oklahoma,Race/Ethnicity,8,5,10.0,27.2,17.2,Partial
+2020,OK,Oklahoma,Sex,2,2,17.6,20.6,3.0,Complete
+2020,OR,Oregon,Age Group,6,6,8.9,18.0,9.1,Complete
+2020,OR,Oregon,Education Attained,4,4,5.5,29.8,24.3,Complete
+2020,OR,Oregon,Household Income,5,5,9.1,26.3,17.200000000000003,Complete
+2020,OR,Oregon,Race/Ethnicity,8,4,10.2,23.5,13.3,Partial
+2020,OR,Oregon,Sex,2,2,12.1,14.6,2.5,Complete
+2020,PA,Pennsylvania,Age Group,6,6,8.0,24.2,16.2,Complete
+2020,PA,Pennsylvania,Education Attained,4,4,5.9,25.9,20.0,Complete
+2020,PA,Pennsylvania,Household Income,5,5,10.9,32.1,21.200000000000003,Complete
+2020,PA,Pennsylvania,Race/Ethnicity,8,4,15.2,29.4,14.2,Partial
+2020,PA,Pennsylvania,Sex,2,2,14.8,16.7,1.8999999999999986,Complete
+2020,RI,Rhode Island,Age Group,6,5,8.4,19.7,11.299999999999999,Partial
+2020,RI,Rhode Island,Education Attained,4,4,5.2,22.8,17.6,Complete
+2020,RI,Rhode Island,Household Income,5,5,9.2,23.5,14.3,Complete
+2020,RI,Rhode Island,Race/Ethnicity,8,3,10.8,33.4,22.599999999999998,Partial
+2020,RI,Rhode Island,Sex,2,2,12.8,14.1,1.299999999999999,Complete
+2020,SC,South Carolina,Age Group,6,6,10.0,27.5,17.5,Complete
+2020,SC,South Carolina,Education Attained,4,4,6.3,35.9,29.599999999999998,Complete
+2020,SC,South Carolina,Household Income,5,5,13.0,34.0,21.0,Complete
+2020,SC,South Carolina,Race/Ethnicity,8,4,13.8,27.9,14.099999999999998,Partial
+2020,SC,South Carolina,Sex,2,2,16.2,20.2,4.0,Complete
+2020,SD,South Dakota,Age Group,6,6,9.5,28.8,19.3,Complete
+2020,SD,South Dakota,Education Attained,4,4,7.6,30.4,22.799999999999997,Complete
+2020,SD,South Dakota,Household Income,5,5,12.7,35.3,22.599999999999998,Complete
+2020,SD,South Dakota,Race/Ethnicity,8,3,14.6,51.5,36.9,Partial
+2020,SD,South Dakota,Sex,2,2,17.6,17.9,0.29999999999999716,Complete
+2020,TN,Tennessee,Age Group,6,6,13.4,23.8,10.4,Complete
+2020,TN,Tennessee,Education Attained,4,4,6.1,35.3,29.199999999999996,Complete
+2020,TN,Tennessee,Household Income,5,5,11.4,36.0,24.6,Complete
+2020,TN,Tennessee,Race/Ethnicity,8,4,15.9,28.9,12.999999999999998,Partial
+2020,TN,Tennessee,Sex,2,2,18.5,20.5,2.0,Complete
+2020,TX,Texas,Age Group,6,6,8.2,17.9,9.7,Complete
+2020,TX,Texas,Education Attained,4,4,7.1,19.2,12.1,Complete
+2020,TX,Texas,Household Income,5,5,10.6,22.0,11.4,Complete
+2020,TX,Texas,Race/Ethnicity,8,4,12.4,22.7,10.299999999999999,Partial
+2020,TX,Texas,Sex,2,2,9.3,17.2,7.899999999999999,Complete
+2020,UT,Utah,Age Group,6,6,3.4,11.3,7.9,Complete
+2020,UT,Utah,Education Attained,4,4,2.3,23.7,21.4,Complete
+2020,UT,Utah,Household Income,5,5,5.9,21.1,15.200000000000001,Complete
+2020,UT,Utah,Race/Ethnicity,8,2,7.7,9.3,1.6000000000000005,Partial
+2020,UT,Utah,Sex,2,2,7.0,9.4,2.4000000000000004,Complete
+2020,VA,Virginia,Age Group,6,6,8.4,17.7,9.299999999999999,Complete
+2020,VA,Virginia,Education Attained,4,4,5.0,24.7,19.7,Complete
+2020,VA,Virginia,Household Income,5,5,9.6,25.3,15.700000000000001,Complete
+2020,VA,Virginia,Race/Ethnicity,8,5,7.9,27.2,19.299999999999997,Partial
+2020,VA,Virginia,Sex,2,2,11.3,16.1,4.800000000000001,Complete
+2020,VT,Vermont,Age Group,6,6,7.0,20.2,13.2,Complete
+2020,VT,Vermont,Education Attained,4,4,3.4,32.8,29.4,Complete
+2020,VT,Vermont,Household Income,5,5,8.2,27.4,19.2,Complete
+2020,VT,Vermont,Race/Ethnicity,8,2,12.7,20.0,7.300000000000001,Partial
+2020,VT,Vermont,Sex,2,2,11.8,14.8,3.0,Complete
+2020,WA,Washington,Age Group,6,6,6.1,13.8,7.700000000000001,Complete
+2020,WA,Washington,Education Attained,4,4,4.4,17.8,13.4,Complete
+2020,WA,Washington,Household Income,5,5,7.6,25.5,17.9,Complete
+2020,WA,Washington,Race/Ethnicity,8,7,6.3,33.4,27.099999999999998,Partial
+2020,WA,Washington,Sex,2,2,10.7,12.3,1.6000000000000014,Complete
+2020,WI,Wisconsin,Age Group,6,6,7.4,21.4,13.999999999999998,Complete
+2020,WI,Wisconsin,Education Attained,4,4,5.3,30.9,25.599999999999998,Complete
+2020,WI,Wisconsin,Household Income,5,5,11.8,28.5,16.7,Complete
+2020,WI,Wisconsin,Race/Ethnicity,8,4,12.9,37.9,25.0,Partial
+2020,WI,Wisconsin,Sex,2,2,13.8,17.2,3.3999999999999986,Complete
+2020,WV,West Virginia,Age Group,6,6,8.5,31.5,23.0,Complete
+2020,WV,West Virginia,Education Attained,4,4,9.8,37.5,27.7,Complete
+2020,WV,West Virginia,Household Income,5,5,14.3,41.8,27.499999999999996,Complete
+2020,WV,West Virginia,Race/Ethnicity,8,3,18.8,40.1,21.3,Partial
+2020,WV,West Virginia,Sex,2,2,22.4,22.7,0.3000000000000007,Complete
+2020,WY,Wyoming,Age Group,6,6,10.5,25.4,14.899999999999999,Complete
+2020,WY,Wyoming,Education Attained,4,4,9.2,33.3,24.099999999999998,Complete
+2020,WY,Wyoming,Household Income,5,5,14.4,33.9,19.5,Complete
+2020,WY,Wyoming,Race/Ethnicity,8,4,16.8,53.0,36.2,Partial
+2020,WY,Wyoming,Sex,2,2,17.5,19.4,1.8999999999999986,Complete
+2021,AK,Alaska,Age Group,6,6,11.8,19.8,8.0,Complete
+2021,AK,Alaska,Education Attained,4,4,5.1,46.6,41.5,Complete
+2021,AK,Alaska,Household Income,7,6,9.7,41.8,32.099999999999994,Partial
+2021,AK,Alaska,Race/Ethnicity,8,4,12.4,34.8,22.4,Partial
+2021,AK,Alaska,Sex,2,2,16.9,17.2,0.3000000000000007,Complete
+2021,AL,Alabama,Age Group,6,5,12.3,24.6,12.3,Partial
+2021,AL,Alabama,Education Attained,4,4,6.4,34.2,27.800000000000004,Complete
+2021,AL,Alabama,Household Income,7,6,9.8,39.3,29.499999999999996,Partial
+2021,AL,Alabama,Race/Ethnicity,8,3,17.3,23.0,5.699999999999999,Partial
+2021,AL,Alabama,Sex,2,2,15.6,19.1,3.5000000000000018,Complete
+2021,AR,Arkansas,Age Group,6,6,12.4,30.2,17.799999999999997,Complete
+2021,AR,Arkansas,Education Attained,4,4,7.6,41.5,33.9,Complete
+2021,AR,Arkansas,Household Income,7,6,8.5,36.7,28.200000000000003,Partial
+2021,AR,Arkansas,Race/Ethnicity,8,4,21.6,39.4,17.799999999999997,Partial
+2021,AR,Arkansas,Sex,2,2,20.9,21.2,0.3000000000000007,Complete
+2021,AZ,Arizona,Age Group,6,6,6.4,16.8,10.4,Complete
+2021,AZ,Arizona,Education Attained,4,4,6.2,22.8,16.6,Complete
+2021,AZ,Arizona,Household Income,7,7,6.8,25.3,18.5,Complete
+2021,AZ,Arizona,Race/Ethnicity,8,5,12.2,22.0,9.8,Partial
+2021,AZ,Arizona,Sex,2,2,10.9,15.3,4.4,Complete
+2021,CA,California,Age Group,6,6,4.0,11.1,7.1,Complete
+2021,CA,California,Education Attained,4,4,4.0,13.3,9.3,Complete
+2021,CA,California,Household Income,7,6,5.7,14.4,8.7,Partial
+2021,CA,California,Race/Ethnicity,8,6,5.5,29.7,24.2,Partial
+2021,CA,California,Sex,2,2,6.4,11.4,5.0,Complete
+2021,CO,Colorado,Age Group,6,6,8.5,15.1,6.6,Complete
+2021,CO,Colorado,Education Attained,4,4,4.4,21.0,16.6,Complete
+2021,CO,Colorado,Household Income,7,7,3.0,29.0,26.0,Complete
+2021,CO,Colorado,Race/Ethnicity,8,7,7.8,15.9,8.100000000000001,Partial
+2021,CO,Colorado,Sex,2,2,10.6,13.3,2.700000000000001,Complete
+2021,CT,Connecticut,Age Group,6,6,6.5,14.5,8.0,Complete
+2021,CT,Connecticut,Education Attained,4,4,4.7,18.4,13.7,Complete
+2021,CT,Connecticut,Household Income,7,7,3.2,24.0,20.8,Complete
+2021,CT,Connecticut,Race/Ethnicity,8,5,10.2,14.0,3.8000000000000007,Partial
+2021,CT,Connecticut,Sex,2,2,9.9,12.4,2.5,Complete
+2021,DC,District of Columbia,Age Group,6,5,6.9,15.0,8.1,Partial
+2021,DC,District of Columbia,Education Attained,4,4,4.6,19.9,15.299999999999999,Complete
+2021,DC,District of Columbia,Household Income,7,6,6.2,23.9,17.7,Partial
+2021,DC,District of Columbia,Race/Ethnicity,8,2,4.5,15.5,11.0,Partial
+2021,DC,District of Columbia,Sex,2,2,8.6,10.6,2.0,Complete
+2021,DE,Delaware,Age Group,6,5,8.4,21.2,12.799999999999999,Partial
+2021,DE,Delaware,Education Attained,4,4,5.4,22.2,16.799999999999997,Complete
+2021,DE,Delaware,Household Income,7,6,6.9,29.5,22.6,Partial
+2021,DE,Delaware,Race/Ethnicity,8,4,8.5,20.0,11.5,Partial
+2021,DE,Delaware,Sex,2,2,11.1,15.9,4.800000000000001,Complete
+2021,GA,Georgia,Age Group,6,6,5.8,23.3,17.5,Complete
+2021,GA,Georgia,Education Attained,4,4,5.4,30.8,25.4,Complete
+2021,GA,Georgia,Household Income,7,6,9.0,26.9,17.9,Partial
+2021,GA,Georgia,Race/Ethnicity,8,5,11.6,44.3,32.699999999999996,Partial
+2021,GA,Georgia,Sex,2,2,13.2,17.0,3.8000000000000007,Complete
+2021,HI,Hawaii,Age Group,6,6,6.9,12.7,5.799999999999999,Complete
+2021,HI,Hawaii,Education Attained,4,4,3.9,18.7,14.799999999999999,Complete
+2021,HI,Hawaii,Household Income,7,6,5.3,24.3,19.0,Partial
+2021,HI,Hawaii,Race/Ethnicity,8,5,6.9,17.5,10.6,Partial
+2021,HI,Hawaii,Sex,2,2,8.7,11.5,2.8000000000000007,Complete
+2021,IA,Iowa,Age Group,6,6,6.3,19.7,13.399999999999999,Complete
+2021,IA,Iowa,Education Attained,4,4,6.6,25.4,18.799999999999997,Complete
+2021,IA,Iowa,Household Income,7,7,7.7,29.3,21.6,Complete
+2021,IA,Iowa,Race/Ethnicity,8,5,9.6,29.6,20.0,Partial
+2021,IA,Iowa,Sex,2,2,13.2,16.1,2.900000000000002,Complete
+2021,ID,Idaho,Age Group,6,6,8.5,17.6,9.100000000000001,Complete
+2021,ID,Idaho,Education Attained,4,4,4.8,32.4,27.599999999999998,Complete
+2021,ID,Idaho,Household Income,7,6,6.1,32.5,26.4,Partial
+2021,ID,Idaho,Race/Ethnicity,8,4,13.0,21.4,8.399999999999999,Partial
+2021,ID,Idaho,Sex,2,2,13.1,13.6,0.5,Complete
+2021,IL,Illinois,Age Group,6,5,6.2,17.8,11.600000000000001,Partial
+2021,IL,Illinois,Education Attained,4,4,3.7,21.6,17.900000000000002,Complete
+2021,IL,Illinois,Household Income,7,6,5.0,25.2,20.2,Partial
+2021,IL,Illinois,Race/Ethnicity,8,3,9.2,13.7,4.5,Partial
+2021,IL,Illinois,Sex,2,2,10.8,13.3,2.5,Complete
+2021,IN,Indiana,Age Group,6,6,7.4,22.3,14.9,Complete
+2021,IN,Indiana,Education Attained,4,4,6.0,31.6,25.6,Complete
+2021,IN,Indiana,Household Income,7,6,8.2,38.3,30.099999999999998,Partial
+2021,IN,Indiana,Race/Ethnicity,8,6,13.7,29.6,15.900000000000002,Partial
+2021,IN,Indiana,Sex,2,2,16.4,18.3,1.9000000000000021,Complete
+2021,KS,Kansas,Age Group,6,6,9.0,22.0,13.0,Complete
+2021,KS,Kansas,Education Attained,4,4,5.9,33.7,27.800000000000004,Complete
+2021,KS,Kansas,Household Income,7,7,4.2,34.0,29.8,Complete
+2021,KS,Kansas,Race/Ethnicity,8,7,7.1,37.0,29.9,Partial
+2021,KS,Kansas,Sex,2,2,14.3,16.9,2.599999999999998,Complete
+2021,KY,Kentucky,Age Group,6,6,11.8,27.6,15.8,Complete
+2021,KY,Kentucky,Education Attained,4,4,7.6,36.8,29.199999999999996,Complete
+2021,KY,Kentucky,Household Income,7,6,10.6,43.4,32.8,Partial
+2021,KY,Kentucky,Race/Ethnicity,8,2,20.0,21.9,1.8999999999999986,Partial
+2021,KY,Kentucky,Sex,2,2,19.2,20.0,0.8000000000000007,Complete
+2021,LA,Louisiana,Age Group,6,6,12.5,26.4,13.899999999999999,Complete
+2021,LA,Louisiana,Education Attained,4,4,7.2,35.6,28.400000000000002,Complete
+2021,LA,Louisiana,Household Income,7,6,9.7,37.7,28.000000000000004,Partial
+2021,LA,Louisiana,Race/Ethnicity,8,3,19.4,24.2,4.800000000000001,Partial
+2021,LA,Louisiana,Sex,2,2,17.4,21.8,4.400000000000002,Complete
+2021,MA,Massachusetts,Age Group,6,6,7.4,13.5,6.1,Complete
+2021,MA,Massachusetts,Education Attained,4,4,4.0,19.0,15.0,Complete
+2021,MA,Massachusetts,Household Income,7,7,2.2,22.4,20.2,Complete
+2021,MA,Massachusetts,Race/Ethnicity,8,5,4.6,14.7,10.1,Partial
+2021,MA,Massachusetts,Sex,2,2,9.8,11.4,1.5999999999999996,Complete
+2021,MD,Maryland,Age Group,6,6,4.5,14.2,9.7,Complete
+2021,MD,Maryland,Education Attained,4,4,3.9,19.6,15.700000000000001,Complete
+2021,MD,Maryland,Household Income,7,7,4.1,24.0,19.9,Complete
+2021,MD,Maryland,Race/Ethnicity,8,7,3.8,21.9,18.099999999999998,Partial
+2021,MD,Maryland,Sex,2,2,8.6,11.8,3.200000000000001,Complete
+2021,ME,Maine,Age Group,6,6,6.3,24.0,17.7,Complete
+2021,ME,Maine,Education Attained,4,4,6.0,37.3,31.299999999999997,Complete
+2021,ME,Maine,Household Income,7,6,7.0,41.7,34.7,Partial
+2021,ME,Maine,Race/Ethnicity,8,4,15.3,29.7,14.399999999999999,Partial
+2021,ME,Maine,Sex,2,2,15.4,15.9,0.5,Complete
+2021,MI,Michigan,Age Group,6,6,3.7,25.1,21.400000000000002,Complete
+2021,MI,Michigan,Education Attained,4,4,5.8,35.0,29.2,Complete
+2021,MI,Michigan,Household Income,7,7,7.5,35.1,27.6,Complete
+2021,MI,Michigan,Race/Ethnicity,8,6,16.7,32.6,15.900000000000002,Partial
+2021,MI,Michigan,Sex,2,2,15.8,18.2,2.3999999999999986,Complete
+2021,MN,Minnesota,Age Group,6,6,6.9,19.2,12.299999999999999,Complete
+2021,MN,Minnesota,Education Attained,4,4,5.5,24.2,18.7,Complete
+2021,MN,Minnesota,Household Income,7,7,4.1,33.0,28.9,Complete
+2021,MN,Minnesota,Race/Ethnicity,8,7,8.3,32.8,24.499999999999996,Partial
+2021,MN,Minnesota,Sex,2,2,12.8,14.1,1.299999999999999,Complete
+2021,MO,Missouri,Age Group,6,6,7.8,25.0,17.2,Complete
+2021,MO,Missouri,Education Attained,4,4,6.6,37.8,31.199999999999996,Complete
+2021,MO,Missouri,Household Income,7,6,10.1,34.9,24.799999999999997,Partial
+2021,MO,Missouri,Race/Ethnicity,8,5,16.8,27.7,10.899999999999999,Partial
+2021,MO,Missouri,Sex,2,2,16.4,18.2,1.8000000000000007,Complete
+2021,MS,Mississippi,Age Group,6,6,11.9,26.9,14.999999999999998,Complete
+2021,MS,Mississippi,Education Attained,4,4,8.8,36.1,27.3,Complete
+2021,MS,Mississippi,Household Income,7,6,10.9,32.2,21.300000000000004,Partial
+2021,MS,Mississippi,Race/Ethnicity,8,2,19.0,19.6,0.6000000000000014,Partial
+2021,MS,Mississippi,Sex,2,2,18.5,20.7,2.1999999999999993,Complete
+2021,MT,Montana,Age Group,6,6,9.0,20.4,11.399999999999999,Complete
+2021,MT,Montana,Education Attained,4,4,5.9,28.6,22.700000000000003,Complete
+2021,MT,Montana,Household Income,7,6,6.9,34.9,28.0,Partial
+2021,MT,Montana,Race/Ethnicity,8,4,12.8,33.5,20.7,Partial
+2021,MT,Montana,Sex,2,2,13.7,15.1,1.4000000000000004,Complete
+2021,NC,North Carolina,Age Group,6,6,7.9,19.9,11.999999999999998,Complete
+2021,NC,North Carolina,Education Attained,4,4,5.9,26.8,20.9,Complete
+2021,NC,North Carolina,Household Income,7,6,7.5,24.2,16.7,Partial
+2021,NC,North Carolina,Race/Ethnicity,8,5,8.5,34.7,26.200000000000003,Partial
+2021,NC,North Carolina,Sex,2,2,11.2,17.8,6.600000000000001,Complete
+2021,ND,North Dakota,Age Group,6,6,7.5,24.1,16.6,Complete
+2021,ND,North Dakota,Education Attained,4,4,5.5,36.0,30.5,Complete
+2021,ND,North Dakota,Household Income,7,7,11.0,29.6,18.6,Complete
+2021,ND,North Dakota,Race/Ethnicity,8,4,13.2,44.3,31.099999999999998,Partial
+2021,ND,North Dakota,Sex,2,2,13.4,16.6,3.200000000000001,Complete
+2021,NE,Nebraska,Age Group,6,6,6.7,18.1,11.400000000000002,Complete
+2021,NE,Nebraska,Education Attained,4,4,5.7,24.8,19.1,Complete
+2021,NE,Nebraska,Household Income,7,6,8.6,32.4,23.799999999999997,Partial
+2021,NE,Nebraska,Race/Ethnicity,8,5,9.2,28.4,19.2,Partial
+2021,NE,Nebraska,Sex,2,2,12.6,14.2,1.5999999999999996,Complete
+2021,NH,New Hampshire,Age Group,6,5,7.4,17.0,9.6,Partial
+2021,NH,New Hampshire,Education Attained,4,4,5.4,23.0,17.6,Complete
+2021,NH,New Hampshire,Household Income,7,6,7.1,27.8,20.700000000000003,Partial
+2021,NH,New Hampshire,Race/Ethnicity,8,2,12.4,19.6,7.200000000000001,Partial
+2021,NH,New Hampshire,Sex,2,2,11.7,12.8,1.1000000000000014,Complete
+2021,NJ,New Jersey,Age Group,6,6,4.1,14.3,10.200000000000001,Complete
+2021,NJ,New Jersey,Education Attained,4,4,4.7,15.8,11.100000000000001,Complete
+2021,NJ,New Jersey,Household Income,7,7,4.9,20.2,15.299999999999999,Complete
+2021,NJ,New Jersey,Race/Ethnicity,8,6,5.8,18.2,12.399999999999999,Partial
+2021,NJ,New Jersey,Sex,2,2,9.4,12.1,2.6999999999999993,Complete
+2021,NM,New Mexico,Age Group,6,6,6.9,21.3,14.4,Complete
+2021,NM,New Mexico,Education Attained,4,4,6.9,18.4,11.499999999999998,Complete
+2021,NM,New Mexico,Household Income,7,6,6.9,25.4,18.5,Partial
+2021,NM,New Mexico,Race/Ethnicity,8,4,12.7,27.6,14.900000000000002,Partial
+2021,NM,New Mexico,Sex,2,2,12.7,14.0,1.3000000000000007,Complete
+2021,NV,Nevada,Age Group,6,5,12.6,23.8,11.200000000000001,Partial
+2021,NV,Nevada,Education Attained,4,4,8.7,27.2,18.5,Complete
+2021,NV,Nevada,Household Income,7,6,5.0,27.5,22.5,Partial
+2021,NV,Nevada,Race/Ethnicity,8,4,12.2,30.4,18.2,Partial
+2021,NV,Nevada,Sex,2,2,13.2,17.8,4.600000000000001,Complete
+2021,NY,New York,Age Group,6,6,6.2,16.0,9.8,Complete
+2021,NY,New York,Education Attained,4,4,5.7,19.2,13.5,Complete
+2021,NY,New York,Household Income,7,7,5.5,20.6,15.100000000000001,Complete
+2021,NY,New York,Race/Ethnicity,8,7,8.3,18.9,10.599999999999998,Partial
+2021,NY,New York,Sex,2,2,10.1,14.2,4.1,Complete
+2021,OH,Ohio,Age Group,6,6,9.9,25.0,15.1,Complete
+2021,OH,Ohio,Education Attained,4,4,5.5,38.6,33.1,Complete
+2021,OH,Ohio,Household Income,7,7,4.4,36.1,31.700000000000003,Complete
+2021,OH,Ohio,Race/Ethnicity,8,6,17.7,35.4,17.7,Partial
+2021,OH,Ohio,Sex,2,2,17.9,18.1,0.20000000000000284,Complete
+2021,OK,Oklahoma,Age Group,6,6,8.1,23.7,15.6,Complete
+2021,OK,Oklahoma,Education Attained,4,4,5.8,30.9,25.099999999999998,Complete
+2021,OK,Oklahoma,Household Income,7,6,9.9,32.2,22.300000000000004,Partial
+2021,OK,Oklahoma,Race/Ethnicity,8,5,11.6,26.1,14.500000000000002,Partial
+2021,OK,Oklahoma,Sex,2,2,16.8,17.1,0.3000000000000007,Complete
+2021,OR,Oregon,Age Group,6,6,7.2,16.1,8.900000000000002,Complete
+2021,OR,Oregon,Education Attained,4,4,4.0,21.0,17.0,Complete
+2021,OR,Oregon,Household Income,7,6,5.4,24.4,19.0,Partial
+2021,OR,Oregon,Race/Ethnicity,8,4,9.4,30.0,20.6,Partial
+2021,OR,Oregon,Sex,2,2,11.7,13.1,1.4000000000000004,Complete
+2021,PA,Pennsylvania,Age Group,6,6,7.7,18.9,11.2,Complete
+2021,PA,Pennsylvania,Education Attained,4,4,6.1,24.1,18.0,Complete
+2021,PA,Pennsylvania,Household Income,7,6,7.8,27.4,19.599999999999998,Partial
+2021,PA,Pennsylvania,Race/Ethnicity,8,4,13.9,16.5,2.5999999999999996,Partial
+2021,PA,Pennsylvania,Sex,2,2,13.6,15.3,1.700000000000001,Complete
+2021,RI,Rhode Island,Age Group,6,5,7.0,16.6,9.600000000000001,Partial
+2021,RI,Rhode Island,Education Attained,4,4,4.8,21.5,16.7,Complete
+2021,RI,Rhode Island,Household Income,7,6,7.1,21.1,14.000000000000002,Partial
+2021,RI,Rhode Island,Race/Ethnicity,8,3,8.0,12.8,4.800000000000001,Partial
+2021,RI,Rhode Island,Sex,2,2,11.3,13.5,2.1999999999999993,Complete
+2021,SC,South Carolina,Age Group,6,6,7.4,23.3,15.9,Complete
+2021,SC,South Carolina,Education Attained,4,4,6.1,28.2,22.1,Complete
+2021,SC,South Carolina,Household Income,7,7,5.7,27.0,21.3,Complete
+2021,SC,South Carolina,Race/Ethnicity,8,5,9.7,24.3,14.600000000000001,Partial
+2021,SC,South Carolina,Sex,2,2,13.4,17.7,4.299999999999999,Complete
+2021,SD,South Dakota,Age Group,6,6,6.5,23.9,17.4,Complete
+2021,SD,South Dakota,Education Attained,4,4,6.5,41.5,35.0,Complete
+2021,SD,South Dakota,Household Income,7,6,12.1,24.5,12.4,Partial
+2021,SD,South Dakota,Race/Ethnicity,8,2,13.1,43.2,30.1,Partial
+2021,SD,South Dakota,Sex,2,2,14.6,16.0,1.4000000000000004,Complete
+2021,TN,Tennessee,Age Group,6,6,11.6,25.9,14.299999999999999,Complete
+2021,TN,Tennessee,Education Attained,4,4,6.2,35.3,29.099999999999998,Complete
+2021,TN,Tennessee,Household Income,7,6,15.6,32.3,16.699999999999996,Partial
+2021,TN,Tennessee,Race/Ethnicity,8,5,14.8,37.1,22.3,Partial
+2021,TN,Tennessee,Sex,2,2,18.5,21.0,2.5,Complete
+2021,TX,Texas,Age Group,6,6,6.0,17.5,11.5,Complete
+2021,TX,Texas,Education Attained,4,4,5.3,21.8,16.5,Complete
+2021,TX,Texas,Household Income,7,6,8.1,28.1,20.0,Partial
+2021,TX,Texas,Race/Ethnicity,8,4,12.8,29.4,16.599999999999998,Partial
+2021,TX,Texas,Sex,2,2,10.0,16.3,6.300000000000001,Complete
+2021,UT,Utah,Age Group,6,6,4.0,10.0,6.0,Complete
+2021,UT,Utah,Education Attained,4,4,2.2,21.4,19.2,Complete
+2021,UT,Utah,Household Income,7,6,3.0,25.3,22.3,Partial
+2021,UT,Utah,Race/Ethnicity,8,5,6.4,17.4,10.999999999999998,Partial
+2021,UT,Utah,Sex,2,2,6.2,8.1,1.8999999999999995,Complete
+2021,VA,Virginia,Age Group,6,6,3.5,18.2,14.7,Complete
+2021,VA,Virginia,Education Attained,4,4,4.2,30.2,26.0,Complete
+2021,VA,Virginia,Household Income,7,7,4.0,30.7,26.7,Complete
+2021,VA,Virginia,Race/Ethnicity,8,4,7.0,24.9,17.9,Partial
+2021,VA,Virginia,Sex,2,2,11.5,13.4,1.9000000000000004,Complete
+2021,VT,Vermont,Age Group,6,6,7.1,25.1,18.0,Complete
+2021,VT,Vermont,Education Attained,4,4,4.8,38.4,33.6,Complete
+2021,VT,Vermont,Household Income,7,6,5.7,37.3,31.599999999999998,Partial
+2021,VT,Vermont,Race/Ethnicity,8,1,14.6,14.6,0.0,Partial
+2021,VT,Vermont,Sex,2,2,13.3,16.4,3.099999999999998,Complete
+2021,WA,Washington,Age Group,6,6,3.9,14.6,10.7,Complete
+2021,WA,Washington,Education Attained,4,4,3.9,21.2,17.3,Complete
+2021,WA,Washington,Household Income,7,7,4.3,27.6,23.3,Complete
+2021,WA,Washington,Race/Ethnicity,8,7,6.4,20.7,14.299999999999999,Partial
+2021,WA,Washington,Sex,2,2,9.4,12.1,2.6999999999999993,Complete
+2021,WI,Wisconsin,Age Group,6,5,7.6,17.6,10.000000000000002,Partial
+2021,WI,Wisconsin,Education Attained,4,4,4.1,24.2,20.1,Complete
+2021,WI,Wisconsin,Household Income,7,6,8.9,36.2,27.300000000000004,Partial
+2021,WI,Wisconsin,Race/Ethnicity,8,3,10.0,18.2,8.2,Partial
+2021,WI,Wisconsin,Sex,2,2,12.2,14.4,2.200000000000001,Complete
+2021,WV,West Virginia,Age Group,6,6,11.4,34.0,22.6,Complete
+2021,WV,West Virginia,Education Attained,4,4,7.8,41.0,33.2,Complete
+2021,WV,West Virginia,Household Income,7,6,12.1,44.4,32.3,Partial
+2021,WV,West Virginia,Race/Ethnicity,8,4,21.6,32.2,10.600000000000001,Partial
+2021,WV,West Virginia,Sex,2,2,21.4,22.5,1.1000000000000014,Complete
+2021,WY,Wyoming,Age Group,6,6,9.0,23.4,14.399999999999999,Complete
+2021,WY,Wyoming,Education Attained,4,4,7.1,28.8,21.700000000000003,Complete
+2021,WY,Wyoming,Household Income,7,6,9.5,36.4,26.9,Partial
+2021,WY,Wyoming,Race/Ethnicity,8,3,16.0,32.0,16.0,Partial
+2021,WY,Wyoming,Sex,2,2,16.1,16.8,0.6999999999999993,Complete
+2022,AK,Alaska,Age Group,6,6,8.8,20.6,11.8,Complete
+2022,AK,Alaska,Education Attained,4,4,5.6,33.7,28.1,Complete
+2022,AK,Alaska,Household Income,7,6,7.6,40.5,32.9,Partial
+2022,AK,Alaska,Race/Ethnicity,8,5,12.3,31.0,18.7,Partial
+2022,AK,Alaska,Sex,2,2,13.8,17.9,4.099999999999998,Complete
+2022,AL,Alabama,Age Group,6,6,9.1,20.8,11.700000000000001,Complete
+2022,AL,Alabama,Education Attained,4,4,5.2,28.6,23.400000000000002,Complete
+2022,AL,Alabama,Household Income,7,6,7.3,33.0,25.7,Partial
+2022,AL,Alabama,Race/Ethnicity,8,3,14.7,38.2,23.500000000000004,Partial
+2022,AL,Alabama,Sex,2,2,14.4,16.9,2.4999999999999982,Complete
+2022,AR,Arkansas,Age Group,6,6,6.4,30.8,24.4,Complete
+2022,AR,Arkansas,Education Attained,4,4,7.9,34.1,26.200000000000003,Complete
+2022,AR,Arkansas,Household Income,7,6,10.8,35.7,24.900000000000002,Partial
+2022,AR,Arkansas,Race/Ethnicity,8,5,11.5,34.8,23.299999999999997,Partial
+2022,AR,Arkansas,Sex,2,2,16.0,21.6,5.600000000000001,Complete
+2022,AZ,Arizona,Age Group,6,6,6.5,15.9,9.4,Complete
+2022,AZ,Arizona,Education Attained,4,4,5.7,25.3,19.6,Complete
+2022,AZ,Arizona,Household Income,7,6,7.0,28.3,21.3,Partial
+2022,AZ,Arizona,Race/Ethnicity,8,5,11.1,23.2,12.1,Partial
+2022,AZ,Arizona,Sex,2,2,11.2,14.2,3.0,Complete
+2022,CA,California,Age Group,6,6,4.0,12.9,8.9,Complete
+2022,CA,California,Education Attained,4,4,4.6,16.8,12.200000000000001,Complete
+2022,CA,California,Household Income,7,7,4.7,22.2,17.5,Complete
+2022,CA,California,Race/Ethnicity,8,6,7.7,18.8,11.100000000000001,Partial
+2022,CA,California,Sex,2,2,7.0,12.6,5.6,Complete
+2022,CO,Colorado,Age Group,6,6,6.8,15.2,8.399999999999999,Complete
+2022,CO,Colorado,Education Attained,4,4,4.0,18.6,14.600000000000001,Complete
+2022,CO,Colorado,Household Income,7,6,6.5,24.6,18.1,Partial
+2022,CO,Colorado,Race/Ethnicity,8,5,7.4,25.2,17.799999999999997,Partial
+2022,CO,Colorado,Sex,2,2,8.9,12.4,3.5,Complete
+2022,CT,Connecticut,Age Group,6,6,6.3,12.5,6.2,Complete
+2022,CT,Connecticut,Education Attained,4,4,3.6,18.4,14.799999999999999,Complete
+2022,CT,Connecticut,Household Income,7,7,3.2,21.4,18.2,Complete
+2022,CT,Connecticut,Race/Ethnicity,8,3,9.7,12.6,2.9000000000000004,Partial
+2022,CT,Connecticut,Sex,2,2,8.4,11.8,3.4000000000000004,Complete
+2022,DC,District of Columbia,Age Group,6,5,6.5,17.1,10.600000000000001,Partial
+2022,DC,District of Columbia,Education Attained,4,4,5.0,33.6,28.6,Complete
+2022,DC,District of Columbia,Household Income,7,6,5.4,33.3,27.9,Partial
+2022,DC,District of Columbia,Race/Ethnicity,8,2,4.7,17.1,12.400000000000002,Partial
+2022,DC,District of Columbia,Sex,2,2,9.0,12.5,3.5,Complete
+2022,DE,Delaware,Age Group,6,5,7.6,21.9,14.299999999999999,Partial
+2022,DE,Delaware,Education Attained,4,4,4.6,19.3,14.700000000000001,Complete
+2022,DE,Delaware,Household Income,7,6,9.3,29.3,20.0,Partial
+2022,DE,Delaware,Race/Ethnicity,8,3,6.5,14.6,8.1,Partial
+2022,DE,Delaware,Sex,2,2,11.6,14.4,2.8000000000000007,Complete
+2022,FL,Florida,Age Group,6,5,6.7,16.9,10.2,Partial
+2022,FL,Florida,Education Attained,4,4,5.5,17.7,12.2,Complete
+2022,FL,Florida,Household Income,7,6,9.2,17.4,8.2,Partial
+2022,FL,Florida,Race/Ethnicity,8,4,9.1,15.9,6.800000000000001,Partial
+2022,FL,Florida,Sex,2,2,9.7,13.0,3.3000000000000007,Complete
+2022,GA,Georgia,Age Group,6,6,4.6,16.4,11.799999999999999,Complete
+2022,GA,Georgia,Education Attained,4,4,5.8,23.9,18.099999999999998,Complete
+2022,GA,Georgia,Household Income,7,6,6.9,29.0,22.1,Partial
+2022,GA,Georgia,Race/Ethnicity,8,4,10.2,16.1,5.900000000000002,Partial
+2022,GA,Georgia,Sex,2,2,12.5,12.6,0.09999999999999964,Complete
+2022,HI,Hawaii,Age Group,6,6,3.0,14.4,11.4,Complete
+2022,HI,Hawaii,Education Attained,4,4,3.8,24.6,20.8,Complete
+2022,HI,Hawaii,Household Income,7,6,6.9,21.1,14.200000000000001,Partial
+2022,HI,Hawaii,Race/Ethnicity,8,5,6.5,15.1,8.6,Partial
+2022,HI,Hawaii,Sex,2,2,8.3,11.6,3.299999999999999,Complete
+2022,IA,Iowa,Age Group,6,6,8.0,19.6,11.600000000000001,Complete
+2022,IA,Iowa,Education Attained,4,4,4.8,25.6,20.8,Complete
+2022,IA,Iowa,Household Income,7,6,8.6,37.0,28.4,Partial
+2022,IA,Iowa,Race/Ethnicity,8,4,12.2,26.5,14.3,Partial
+2022,IA,Iowa,Sex,2,2,12.9,16.6,3.700000000000001,Complete
+2022,ID,Idaho,Age Group,6,6,7.2,17.4,10.2,Complete
+2022,ID,Idaho,Education Attained,4,4,5.0,24.5,19.5,Complete
+2022,ID,Idaho,Household Income,7,6,5.7,36.6,30.900000000000002,Partial
+2022,ID,Idaho,Race/Ethnicity,8,4,10.8,22.9,12.099999999999998,Partial
+2022,ID,Idaho,Sex,2,2,11.0,12.7,1.6999999999999993,Complete
+2022,IL,Illinois,Age Group,6,6,5.8,17.4,11.599999999999998,Complete
+2022,IL,Illinois,Education Attained,4,4,4.8,23.2,18.4,Complete
+2022,IL,Illinois,Household Income,7,7,6.1,27.8,21.700000000000003,Complete
+2022,IL,Illinois,Race/Ethnicity,8,3,10.0,15.4,5.4,Partial
+2022,IL,Illinois,Sex,2,2,10.5,14.4,3.9000000000000004,Complete
+2022,IN,Indiana,Age Group,6,6,5.2,21.4,16.2,Complete
+2022,IN,Indiana,Education Attained,4,4,6.3,28.1,21.8,Complete
+2022,IN,Indiana,Household Income,7,7,5.1,34.7,29.6,Complete
+2022,IN,Indiana,Race/Ethnicity,8,4,11.8,19.9,8.099999999999998,Partial
+2022,IN,Indiana,Sex,2,2,15.2,17.3,2.1000000000000014,Complete
+2022,KS,Kansas,Age Group,6,6,6.7,18.4,11.7,Complete
+2022,KS,Kansas,Education Attained,4,4,5.1,30.1,25.0,Complete
+2022,KS,Kansas,Household Income,7,6,8.2,35.6,27.400000000000002,Partial
+2022,KS,Kansas,Race/Ethnicity,8,5,11.4,37.0,25.6,Partial
+2022,KS,Kansas,Sex,2,2,13.3,15.7,2.3999999999999986,Complete
+2022,KY,Kentucky,Age Group,6,6,9.2,26.1,16.900000000000002,Complete
+2022,KY,Kentucky,Education Attained,4,4,7.1,24.7,17.6,Complete
+2022,KY,Kentucky,Household Income,7,6,9.2,35.6,26.400000000000002,Partial
+2022,KY,Kentucky,Race/Ethnicity,8,3,17.0,20.0,3.0,Partial
+2022,KY,Kentucky,Sex,2,2,15.5,19.4,3.8999999999999986,Complete
+2022,LA,Louisiana,Age Group,6,6,5.8,22.9,17.099999999999998,Complete
+2022,LA,Louisiana,Education Attained,4,4,6.7,34.0,27.3,Complete
+2022,LA,Louisiana,Household Income,7,7,5.8,34.5,28.7,Complete
+2022,LA,Louisiana,Race/Ethnicity,8,5,13.3,23.1,9.8,Partial
+2022,LA,Louisiana,Sex,2,2,14.7,18.9,4.199999999999999,Complete
+2022,MA,Massachusetts,Age Group,6,6,6.2,13.8,7.6000000000000005,Complete
+2022,MA,Massachusetts,Education Attained,4,4,4.0,20.4,16.4,Complete
+2022,MA,Massachusetts,Household Income,7,7,3.6,23.2,19.599999999999998,Complete
+2022,MA,Massachusetts,Race/Ethnicity,8,6,5.1,37.6,32.5,Partial
+2022,MA,Massachusetts,Sex,2,2,9.2,11.6,2.4000000000000004,Complete
+2022,MD,Maryland,Age Group,6,6,3.3,13.2,9.899999999999999,Complete
+2022,MD,Maryland,Education Attained,4,4,3.8,17.1,13.3,Complete
+2022,MD,Maryland,Household Income,7,7,4.2,22.0,17.8,Complete
+2022,MD,Maryland,Race/Ethnicity,8,5,3.6,20.8,17.2,Partial
+2022,MD,Maryland,Sex,2,2,8.2,11.2,3.0,Complete
+2022,ME,Maine,Age Group,6,6,8.9,20.0,11.1,Complete
+2022,ME,Maine,Education Attained,4,4,4.7,39.4,34.699999999999996,Complete
+2022,ME,Maine,Household Income,7,6,8.3,38.1,29.8,Partial
+2022,ME,Maine,Race/Ethnicity,8,4,14.7,25.1,10.400000000000002,Partial
+2022,ME,Maine,Sex,2,2,14.1,16.0,1.9000000000000004,Complete
+2022,MI,Michigan,Age Group,6,6,6.4,22.3,15.9,Complete
+2022,MI,Michigan,Education Attained,4,4,5.7,29.4,23.7,Complete
+2022,MI,Michigan,Household Income,7,7,6.5,34.6,28.1,Complete
+2022,MI,Michigan,Race/Ethnicity,8,5,14.8,26.0,11.2,Partial
+2022,MI,Michigan,Sex,2,2,14.5,16.0,1.5,Complete
+2022,MN,Minnesota,Age Group,6,6,8.1,17.2,9.1,Complete
+2022,MN,Minnesota,Education Attained,4,4,5.1,29.0,23.9,Complete
+2022,MN,Minnesota,Household Income,7,7,4.9,33.1,28.200000000000003,Complete
+2022,MN,Minnesota,Race/Ethnicity,8,6,7.2,44.1,36.9,Partial
+2022,MN,Minnesota,Sex,2,2,12.4,13.6,1.1999999999999993,Complete
+2022,MO,Missouri,Age Group,6,6,6.3,27.1,20.8,Complete
+2022,MO,Missouri,Education Attained,4,4,7.6,31.8,24.200000000000003,Complete
+2022,MO,Missouri,Household Income,7,7,9.3,35.7,26.400000000000002,Complete
+2022,MO,Missouri,Race/Ethnicity,8,5,13.3,32.6,19.3,Partial
+2022,MO,Missouri,Sex,2,2,16.2,17.3,1.1000000000000014,Complete
+2022,MS,Mississippi,Age Group,6,6,8.0,23.8,15.8,Complete
+2022,MS,Mississippi,Education Attained,4,4,6.5,36.4,29.9,Complete
+2022,MS,Mississippi,Household Income,7,6,10.2,31.2,21.0,Partial
+2022,MS,Mississippi,Race/Ethnicity,8,2,16.1,17.6,1.5,Partial
+2022,MS,Mississippi,Sex,2,2,14.4,20.6,6.200000000000001,Complete
+2022,MT,Montana,Age Group,6,6,9.4,20.0,10.6,Complete
+2022,MT,Montana,Education Attained,4,4,7.0,38.8,31.799999999999997,Complete
+2022,MT,Montana,Household Income,7,6,8.1,36.7,28.6,Partial
+2022,MT,Montana,Race/Ethnicity,8,4,13.1,35.0,21.9,Partial
+2022,MT,Montana,Sex,2,2,14.8,15.6,0.7999999999999989,Complete
+2022,NC,North Carolina,Age Group,6,6,10.1,18.2,8.1,Complete
+2022,NC,North Carolina,Education Attained,4,4,5.4,28.1,22.700000000000003,Complete
+2022,NC,North Carolina,Household Income,7,7,6.6,35.0,28.4,Complete
+2022,NC,North Carolina,Race/Ethnicity,8,4,8.6,30.0,21.4,Partial
+2022,NC,North Carolina,Sex,2,2,13.6,15.4,1.8000000000000007,Complete
+2022,ND,North Dakota,Age Group,6,6,8.2,21.6,13.400000000000002,Complete
+2022,ND,North Dakota,Education Attained,4,4,5.8,32.2,26.400000000000002,Complete
+2022,ND,North Dakota,Household Income,7,6,10.2,26.7,16.5,Partial
+2022,ND,North Dakota,Race/Ethnicity,8,4,14.0,35.6,21.6,Partial
+2022,ND,North Dakota,Sex,2,2,14.8,15.5,0.6999999999999993,Complete
+2022,NE,Nebraska,Age Group,6,6,8.1,17.9,9.799999999999999,Complete
+2022,NE,Nebraska,Education Attained,4,4,6.5,20.8,14.3,Complete
+2022,NE,Nebraska,Household Income,7,6,8.5,25.8,17.3,Partial
+2022,NE,Nebraska,Race/Ethnicity,8,5,9.5,37.9,28.4,Partial
+2022,NE,Nebraska,Sex,2,2,12.2,13.8,1.6000000000000014,Complete
+2022,NH,New Hampshire,Age Group,6,5,7.6,16.0,8.4,Partial
+2022,NH,New Hampshire,Education Attained,4,4,3.7,33.3,29.599999999999998,Complete
+2022,NH,New Hampshire,Household Income,7,6,6.7,30.1,23.400000000000002,Partial
+2022,NH,New Hampshire,Race/Ethnicity,8,1,12.0,12.0,0.0,Partial
+2022,NH,New Hampshire,Sex,2,2,11.0,11.4,0.40000000000000036,Complete
+2022,NJ,New Jersey,Age Group,6,6,4.4,13.9,9.5,Complete
+2022,NJ,New Jersey,Education Attained,4,4,4.5,20.6,16.1,Complete
+2022,NJ,New Jersey,Household Income,7,7,5.8,23.5,17.7,Complete
+2022,NJ,New Jersey,Race/Ethnicity,8,5,5.2,17.9,12.7,Partial
+2022,NJ,New Jersey,Sex,2,2,9.0,11.9,2.9000000000000004,Complete
+2022,NM,New Mexico,Age Group,6,6,10.8,19.5,8.7,Complete
+2022,NM,New Mexico,Education Attained,4,4,7.4,21.4,13.999999999999998,Complete
+2022,NM,New Mexico,Household Income,7,6,8.2,23.2,15.0,Partial
+2022,NM,New Mexico,Race/Ethnicity,8,3,14.2,15.7,1.5,Partial
+2022,NM,New Mexico,Sex,2,2,12.9,17.0,4.1,Complete
+2022,NV,Nevada,Age Group,6,5,10.7,20.1,9.400000000000002,Partial
+2022,NV,Nevada,Education Attained,4,4,6.2,24.4,18.2,Complete
+2022,NV,Nevada,Household Income,7,6,11.6,21.8,10.200000000000001,Partial
+2022,NV,Nevada,Race/Ethnicity,8,3,11.3,16.0,4.699999999999999,Partial
+2022,NV,Nevada,Sex,2,2,14.6,15.0,0.40000000000000036,Complete
+2022,NY,New York,Age Group,6,6,5.7,14.1,8.399999999999999,Complete
+2022,NY,New York,Education Attained,4,4,4.9,18.1,13.200000000000001,Complete
+2022,NY,New York,Household Income,7,7,4.3,18.4,14.099999999999998,Complete
+2022,NY,New York,Race/Ethnicity,8,5,6.5,16.1,9.600000000000001,Partial
+2022,NY,New York,Sex,2,2,9.7,12.9,3.200000000000001,Complete
+2022,OH,Ohio,Age Group,6,6,8.4,23.1,14.700000000000001,Complete
+2022,OH,Ohio,Education Attained,4,4,6.2,35.4,29.2,Complete
+2022,OH,Ohio,Household Income,7,7,6.1,40.6,34.5,Complete
+2022,OH,Ohio,Race/Ethnicity,8,5,14.5,34.6,20.1,Partial
+2022,OH,Ohio,Sex,2,2,16.5,17.7,1.1999999999999993,Complete
+2022,OK,Oklahoma,Age Group,6,6,10.7,19.5,8.8,Complete
+2022,OK,Oklahoma,Education Attained,4,4,6.3,27.3,21.0,Complete
+2022,OK,Oklahoma,Household Income,7,7,6.9,31.3,24.4,Complete
+2022,OK,Oklahoma,Race/Ethnicity,8,5,10.0,21.2,11.2,Partial
+2022,OK,Oklahoma,Sex,2,2,14.6,16.6,2.0000000000000018,Complete
+2022,OR,Oregon,Age Group,6,6,5.6,16.2,10.6,Complete
+2022,OR,Oregon,Education Attained,4,4,5.7,19.0,13.3,Complete
+2022,OR,Oregon,Household Income,7,6,6.8,29.7,22.9,Partial
+2022,OR,Oregon,Race/Ethnicity,8,5,9.7,19.4,9.7,Partial
+2022,OR,Oregon,Sex,2,2,11.3,13.5,2.1999999999999993,Complete
+2022,PA,Pennsylvania,Age Group,6,6,7.8,20.8,13.0,Complete
+2022,PA,Pennsylvania,Education Attained,4,4,6.6,33.4,26.799999999999997,Complete
+2022,PA,Pennsylvania,Household Income,7,6,12.0,30.7,18.7,Partial
+2022,PA,Pennsylvania,Race/Ethnicity,8,4,9.0,20.3,11.3,Partial
+2022,PA,Pennsylvania,Sex,2,2,14.0,15.9,1.9000000000000004,Complete
+2022,RI,Rhode Island,Age Group,6,5,8.4,17.1,8.700000000000001,Partial
+2022,RI,Rhode Island,Education Attained,4,4,5.1,20.0,14.9,Complete
+2022,RI,Rhode Island,Household Income,7,6,8.7,23.7,15.0,Partial
+2022,RI,Rhode Island,Race/Ethnicity,8,4,8.1,27.1,19.0,Partial
+2022,RI,Rhode Island,Sex,2,2,11.0,12.6,1.5999999999999996,Complete
+2022,SC,South Carolina,Age Group,6,6,7.0,22.1,15.100000000000001,Complete
+2022,SC,South Carolina,Education Attained,4,4,5.7,29.7,24.0,Complete
+2022,SC,South Carolina,Household Income,7,7,6.0,29.9,23.9,Complete
+2022,SC,South Carolina,Race/Ethnicity,8,5,12.7,32.6,19.900000000000002,Partial
+2022,SC,South Carolina,Sex,2,2,13.6,17.3,3.700000000000001,Complete
+2022,SD,South Dakota,Age Group,6,5,9.0,17.8,8.8,Partial
+2022,SD,South Dakota,Education Attained,4,4,6.9,19.2,12.299999999999999,Complete
+2022,SD,South Dakota,Household Income,7,5,7.9,21.7,13.799999999999999,Partial
+2022,SD,South Dakota,Race/Ethnicity,8,2,12.4,38.6,26.200000000000003,Partial
+2022,SD,South Dakota,Sex,2,2,13.5,14.5,1.0,Complete
+2022,TN,Tennessee,Age Group,6,6,6.6,27.0,20.4,Complete
+2022,TN,Tennessee,Education Attained,4,4,8.1,38.0,29.9,Complete
+2022,TN,Tennessee,Household Income,7,6,10.2,36.9,26.7,Partial
+2022,TN,Tennessee,Race/Ethnicity,8,4,16.6,31.4,14.799999999999997,Partial
+2022,TN,Tennessee,Sex,2,2,16.7,20.5,3.8000000000000007,Complete
+2022,TX,Texas,Age Group,6,6,6.0,15.1,9.1,Complete
+2022,TX,Texas,Education Attained,4,4,5.9,19.6,13.700000000000001,Complete
+2022,TX,Texas,Household Income,7,7,4.9,20.6,15.700000000000001,Complete
+2022,TX,Texas,Race/Ethnicity,8,4,10.8,17.6,6.800000000000001,Partial
+2022,TX,Texas,Sex,2,2,10.7,13.0,2.3000000000000007,Complete
+2022,UT,Utah,Age Group,6,6,3.2,9.3,6.1000000000000005,Complete
+2022,UT,Utah,Education Attained,4,4,2.4,14.6,12.2,Complete
+2022,UT,Utah,Household Income,7,6,4.6,12.0,7.4,Partial
+2022,UT,Utah,Race/Ethnicity,8,2,6.6,7.1,0.5,Partial
+2022,UT,Utah,Sex,2,2,4.9,8.4,3.5,Complete
+2022,VA,Virginia,Age Group,6,6,5.0,16.2,11.2,Complete
+2022,VA,Virginia,Education Attained,4,4,5.4,22.4,17.0,Complete
+2022,VA,Virginia,Household Income,7,7,5.1,24.7,19.6,Complete
+2022,VA,Virginia,Race/Ethnicity,8,5,4.8,13.5,8.7,Partial
+2022,VA,Virginia,Sex,2,2,10.1,14.2,4.1,Complete
+2022,VT,Vermont,Age Group,6,6,8.4,17.3,8.9,Complete
+2022,VT,Vermont,Education Attained,4,4,5.0,33.4,28.4,Complete
+2022,VT,Vermont,Household Income,7,6,6.4,26.0,19.6,Partial
+2022,VT,Vermont,Race/Ethnicity,8,3,12.6,30.2,17.6,Partial
+2022,VT,Vermont,Sex,2,2,12.5,13.6,1.0999999999999996,Complete
+2022,WA,Washington,Age Group,6,6,5.2,12.6,7.3999999999999995,Complete
+2022,WA,Washington,Education Attained,4,4,3.3,22.0,18.7,Complete
+2022,WA,Washington,Household Income,7,7,3.0,26.3,23.3,Complete
+2022,WA,Washington,Race/Ethnicity,8,6,3.8,25.4,21.599999999999998,Partial
+2022,WA,Washington,Sex,2,2,9.1,10.9,1.8000000000000007,Complete
+2022,WI,Wisconsin,Age Group,6,6,8.2,20.7,12.5,Complete
+2022,WI,Wisconsin,Education Attained,4,4,5.2,30.2,25.0,Complete
+2022,WI,Wisconsin,Household Income,7,7,5.1,28.0,22.9,Complete
+2022,WI,Wisconsin,Race/Ethnicity,8,5,13.7,23.2,9.5,Partial
+2022,WI,Wisconsin,Sex,2,2,13.1,15.4,2.3000000000000007,Complete
+2022,WV,West Virginia,Age Group,6,6,12.6,29.6,17.0,Complete
+2022,WV,West Virginia,Education Attained,4,4,8.7,39.2,30.500000000000004,Complete
+2022,WV,West Virginia,Household Income,7,6,11.2,45.4,34.2,Partial
+2022,WV,West Virginia,Race/Ethnicity,8,3,20.8,29.9,9.099999999999998,Partial
+2022,WV,West Virginia,Sex,2,2,20.9,21.1,0.20000000000000284,Complete
+2022,WY,Wyoming,Age Group,6,6,11.8,18.5,6.699999999999999,Complete
+2022,WY,Wyoming,Education Attained,4,4,5.6,26.3,20.700000000000003,Complete
+2022,WY,Wyoming,Household Income,7,6,9.6,33.4,23.799999999999997,Partial
+2022,WY,Wyoming,Race/Ethnicity,8,2,11.0,15.6,4.6,Partial
+2022,WY,Wyoming,Sex,2,2,14.4,16.5,2.0999999999999996,Complete
+2023,AK,Alaska,Age Group,6,6,7.8,20.5,12.7,Complete
+2023,AK,Alaska,Education Attained,4,4,5.2,35.3,30.099999999999998,Complete
+2023,AK,Alaska,Household Income,7,6,8.7,39.2,30.500000000000004,Partial
+2023,AK,Alaska,Race/Ethnicity,8,4,11.2,32.4,21.2,Partial
+2023,AK,Alaska,Sex,2,2,13.7,16.8,3.1000000000000014,Complete
+2023,AL,Alabama,Age Group,6,5,9.9,20.4,10.499999999999998,Partial
+2023,AL,Alabama,Education Attained,4,4,6.3,26.2,19.9,Complete
+2023,AL,Alabama,Household Income,7,7,8.6,27.8,19.200000000000003,Complete
+2023,AL,Alabama,Race/Ethnicity,8,2,12.5,14.6,2.0999999999999996,Partial
+2023,AL,Alabama,Sex,2,2,11.9,16.8,4.9,Complete
+2023,AR,Arkansas,Age Group,6,5,10.0,22.3,12.3,Partial
+2023,AR,Arkansas,Education Attained,4,4,6.0,26.5,20.5,Complete
+2023,AR,Arkansas,Household Income,7,6,7.1,29.7,22.6,Partial
+2023,AR,Arkansas,Race/Ethnicity,8,3,15.4,20.9,5.499999999999998,Partial
+2023,AR,Arkansas,Sex,2,2,14.3,15.8,1.5,Complete
+2023,AZ,Arizona,Age Group,6,6,5.6,13.0,7.4,Complete
+2023,AZ,Arizona,Education Attained,4,4,4.4,17.7,13.299999999999999,Complete
+2023,AZ,Arizona,Household Income,7,6,6.3,23.9,17.599999999999998,Partial
+2023,AZ,Arizona,Race/Ethnicity,8,6,8.1,19.5,11.4,Partial
+2023,AZ,Arizona,Sex,2,2,8.5,11.6,3.0999999999999996,Complete
+2023,CA,California,Age Group,6,6,4.6,11.6,7.0,Complete
+2023,CA,California,Education Attained,4,4,3.5,12.1,8.6,Complete
+2023,CA,California,Household Income,7,7,4.4,16.5,12.1,Complete
+2023,CA,California,Race/Ethnicity,8,5,5.7,12.6,6.8999999999999995,Partial
+2023,CA,California,Sex,2,2,5.8,11.3,5.500000000000001,Complete
+2023,CO,Colorado,Age Group,6,6,6.4,13.7,7.299999999999999,Complete
+2023,CO,Colorado,Education Attained,4,4,4.8,19.3,14.5,Complete
+2023,CO,Colorado,Household Income,7,7,3.7,21.6,17.900000000000002,Complete
+2023,CO,Colorado,Race/Ethnicity,8,4,9.1,19.7,10.6,Partial
+2023,CO,Colorado,Sex,2,2,9.0,11.4,2.4000000000000004,Complete
+2023,CT,Connecticut,Age Group,6,5,6.8,13.3,6.500000000000001,Partial
+2023,CT,Connecticut,Education Attained,4,4,3.4,16.4,12.999999999999998,Complete
+2023,CT,Connecticut,Household Income,7,7,2.3,17.9,15.599999999999998,Complete
+2023,CT,Connecticut,Race/Ethnicity,8,3,7.8,10.0,2.2,Partial
+2023,CT,Connecticut,Sex,2,2,6.9,10.0,3.0999999999999996,Complete
+2023,DC,District of Columbia,Age Group,6,5,7.0,13.6,6.6,Partial
+2023,DC,District of Columbia,Education Attained,4,4,3.8,36.4,32.6,Complete
+2023,DC,District of Columbia,Household Income,7,5,2.8,28.2,25.4,Partial
+2023,DC,District of Columbia,Race/Ethnicity,8,2,3.4,15.6,12.2,Partial
+2023,DC,District of Columbia,Sex,2,2,5.5,14.9,9.4,Complete
+2023,DE,Delaware,Age Group,6,5,7.7,19.3,11.600000000000001,Partial
+2023,DE,Delaware,Education Attained,4,4,4.3,21.1,16.8,Complete
+2023,DE,Delaware,Household Income,7,6,6.7,23.1,16.400000000000002,Partial
+2023,DE,Delaware,Race/Ethnicity,8,4,9.1,18.2,9.1,Partial
+2023,DE,Delaware,Sex,2,2,10.9,11.8,0.9000000000000004,Complete
+2023,FL,Florida,Age Group,6,6,7.0,14.6,7.6,Complete
+2023,FL,Florida,Education Attained,4,4,4.3,18.4,14.099999999999998,Complete
+2023,FL,Florida,Household Income,7,7,3.9,15.4,11.5,Complete
+2023,FL,Florida,Race/Ethnicity,8,3,5.5,12.3,6.800000000000001,Partial
+2023,FL,Florida,Sex,2,2,8.8,12.4,3.5999999999999996,Complete
+2023,GA,Georgia,Age Group,6,6,3.8,17.1,13.3,Complete
+2023,GA,Georgia,Education Attained,4,4,4.4,26.4,22.0,Complete
+2023,GA,Georgia,Household Income,7,6,7.5,30.8,23.3,Partial
+2023,GA,Georgia,Race/Ethnicity,8,4,9.3,14.1,4.799999999999999,Partial
+2023,GA,Georgia,Sex,2,2,9.4,14.8,5.4,Complete
+2023,HI,Hawaii,Age Group,6,6,5.6,12.3,6.700000000000001,Complete
+2023,HI,Hawaii,Education Attained,4,4,4.8,18.7,13.899999999999999,Complete
+2023,HI,Hawaii,Household Income,7,6,5.6,20.6,15.000000000000002,Partial
+2023,HI,Hawaii,Race/Ethnicity,8,5,6.1,13.1,7.0,Partial
+2023,HI,Hawaii,Sex,2,2,7.9,10.2,2.299999999999999,Complete
+2023,IA,Iowa,Age Group,6,6,6.4,19.7,13.299999999999999,Complete
+2023,IA,Iowa,Education Attained,4,4,5.1,24.6,19.5,Complete
+2023,IA,Iowa,Household Income,7,7,6.9,29.6,22.700000000000003,Complete
+2023,IA,Iowa,Race/Ethnicity,8,4,10.4,23.7,13.299999999999999,Partial
+2023,IA,Iowa,Sex,2,2,12.6,14.9,2.3000000000000007,Complete
+2023,ID,Idaho,Age Group,6,6,5.2,14.3,9.100000000000001,Complete
+2023,ID,Idaho,Education Attained,4,4,4.5,21.0,16.5,Complete
+2023,ID,Idaho,Household Income,7,6,5.3,23.1,17.8,Partial
+2023,ID,Idaho,Race/Ethnicity,8,3,9.3,17.4,8.099999999999998,Partial
+2023,ID,Idaho,Sex,2,2,9.2,11.6,2.4000000000000004,Complete
+2023,IL,Illinois,Age Group,6,6,5.4,18.8,13.4,Complete
+2023,IL,Illinois,Education Attained,4,4,3.9,16.8,12.9,Complete
+2023,IL,Illinois,Household Income,7,6,6.7,19.4,12.7,Partial
+2023,IL,Illinois,Race/Ethnicity,8,3,8.8,12.0,3.1999999999999993,Partial
+2023,IL,Illinois,Sex,2,2,9.5,12.2,2.6999999999999993,Complete
+2023,IN,Indiana,Age Group,6,6,5.2,20.9,15.7,Complete
+2023,IN,Indiana,Education Attained,4,4,5.2,28.0,22.8,Complete
+2023,IN,Indiana,Household Income,7,7,4.3,28.8,24.5,Complete
+2023,IN,Indiana,Race/Ethnicity,8,6,7.4,26.5,19.1,Partial
+2023,IN,Indiana,Sex,2,2,14.0,14.9,0.9000000000000004,Complete
+2023,KS,Kansas,Age Group,6,6,6.7,20.0,13.3,Complete
+2023,KS,Kansas,Education Attained,4,4,4.9,29.3,24.4,Complete
+2023,KS,Kansas,Household Income,7,7,3.7,33.8,30.099999999999998,Complete
+2023,KS,Kansas,Race/Ethnicity,8,5,11.9,31.5,19.6,Partial
+2023,KS,Kansas,Sex,2,2,13.4,14.4,1.0,Complete
+2023,LA,Louisiana,Age Group,6,6,4.5,21.4,16.9,Complete
+2023,LA,Louisiana,Education Attained,4,4,5.8,35.2,29.400000000000002,Complete
+2023,LA,Louisiana,Household Income,7,6,9.2,28.7,19.5,Partial
+2023,LA,Louisiana,Race/Ethnicity,8,5,12.0,26.4,14.399999999999999,Partial
+2023,LA,Louisiana,Sex,2,2,14.5,17.1,2.6000000000000014,Complete
+2023,MA,Massachusetts,Age Group,6,6,3.6,13.9,10.3,Complete
+2023,MA,Massachusetts,Education Attained,4,4,3.6,19.9,16.299999999999997,Complete
+2023,MA,Massachusetts,Household Income,7,7,3.1,22.2,19.099999999999998,Complete
+2023,MA,Massachusetts,Race/Ethnicity,8,5,6.4,17.2,10.799999999999999,Partial
+2023,MA,Massachusetts,Sex,2,2,7.5,12.4,4.9,Complete
+2023,MD,Maryland,Age Group,6,6,3.4,11.6,8.2,Complete
+2023,MD,Maryland,Education Attained,4,4,3.3,21.5,18.2,Complete
+2023,MD,Maryland,Household Income,7,7,3.0,20.8,17.8,Complete
+2023,MD,Maryland,Race/Ethnicity,8,4,9.0,14.8,5.800000000000001,Partial
+2023,MD,Maryland,Sex,2,2,7.3,11.1,3.8,Complete
+2023,ME,Maine,Age Group,6,6,7.2,21.3,14.100000000000001,Complete
+2023,ME,Maine,Education Attained,4,4,5.2,32.3,27.099999999999998,Complete
+2023,ME,Maine,Household Income,7,7,4.2,36.3,32.099999999999994,Complete
+2023,ME,Maine,Race/Ethnicity,8,4,13.6,40.3,26.699999999999996,Partial
+2023,ME,Maine,Sex,2,2,12.9,15.2,2.299999999999999,Complete
+2023,MI,Michigan,Age Group,6,6,6.7,19.0,12.3,Complete
+2023,MI,Michigan,Education Attained,4,4,5.6,28.7,23.1,Complete
+2023,MI,Michigan,Household Income,7,7,4.0,33.1,29.1,Complete
+2023,MI,Michigan,Race/Ethnicity,8,4,12.7,17.7,5.0,Partial
+2023,MI,Michigan,Sex,2,2,13.3,14.0,0.6999999999999993,Complete
+2023,MN,Minnesota,Age Group,6,6,5.1,17.5,12.4,Complete
+2023,MN,Minnesota,Education Attained,4,4,4.8,25.8,21.0,Complete
+2023,MN,Minnesota,Household Income,7,7,4.2,26.8,22.6,Complete
+2023,MN,Minnesota,Race/Ethnicity,8,7,8.0,35.3,27.299999999999997,Partial
+2023,MN,Minnesota,Sex,2,2,11.6,12.8,1.200000000000001,Complete
+2023,MO,Missouri,Age Group,6,6,7.8,21.6,13.8,Complete
+2023,MO,Missouri,Education Attained,4,4,6.4,26.9,20.5,Complete
+2023,MO,Missouri,Household Income,7,7,4.6,34.6,30.0,Complete
+2023,MO,Missouri,Race/Ethnicity,8,5,13.3,23.1,9.8,Partial
+2023,MO,Missouri,Sex,2,2,14.1,16.5,2.4000000000000004,Complete
+2023,MS,Mississippi,Age Group,6,6,4.8,25.7,20.9,Complete
+2023,MS,Mississippi,Education Attained,4,4,7.0,27.6,20.6,Complete
+2023,MS,Mississippi,Household Income,7,6,10.8,24.5,13.7,Partial
+2023,MS,Mississippi,Race/Ethnicity,8,2,14.2,17.0,2.8000000000000007,Partial
+2023,MS,Mississippi,Sex,2,2,14.2,17.2,3.0,Complete
+2023,MT,Montana,Age Group,6,6,7.5,18.0,10.5,Complete
+2023,MT,Montana,Education Attained,4,4,4.9,24.2,19.299999999999997,Complete
+2023,MT,Montana,Household Income,7,6,6.8,33.2,26.400000000000002,Partial
+2023,MT,Montana,Race/Ethnicity,8,3,11.2,25.0,13.8,Partial
+2023,MT,Montana,Sex,2,2,12.3,12.4,0.09999999999999964,Complete
+2023,NC,North Carolina,Age Group,6,6,5.2,20.0,14.8,Complete
+2023,NC,North Carolina,Education Attained,4,4,4.6,25.6,21.0,Complete
+2023,NC,North Carolina,Household Income,7,6,8.7,25.5,16.8,Partial
+2023,NC,North Carolina,Race/Ethnicity,8,4,12.8,19.2,6.399999999999999,Partial
+2023,NC,North Carolina,Sex,2,2,10.4,16.3,5.9,Complete
+2023,ND,North Dakota,Age Group,6,6,6.9,19.0,12.1,Complete
+2023,ND,North Dakota,Education Attained,4,4,5.4,36.9,31.5,Complete
+2023,ND,North Dakota,Household Income,7,6,9.0,25.3,16.3,Partial
+2023,ND,North Dakota,Race/Ethnicity,8,5,11.8,39.0,27.2,Partial
+2023,ND,North Dakota,Sex,2,2,12.4,14.2,1.799999999999999,Complete
+2023,NE,Nebraska,Age Group,6,6,5.2,16.0,10.8,Complete
+2023,NE,Nebraska,Education Attained,4,4,5.2,19.5,14.3,Complete
+2023,NE,Nebraska,Household Income,7,6,7.4,25.1,17.700000000000003,Partial
+2023,NE,Nebraska,Race/Ethnicity,8,5,8.9,22.3,13.4,Partial
+2023,NE,Nebraska,Sex,2,2,10.8,13.4,2.5999999999999996,Complete
+2023,NH,New Hampshire,Age Group,6,5,8.1,13.5,5.4,Partial
+2023,NH,New Hampshire,Education Attained,4,4,3.7,27.3,23.6,Complete
+2023,NH,New Hampshire,Household Income,7,7,4.4,29.2,24.799999999999997,Complete
+2023,NH,New Hampshire,Race/Ethnicity,8,1,10.0,10.0,0.0,Partial
+2023,NH,New Hampshire,Sex,2,2,10.0,10.8,0.8000000000000007,Complete
+2023,NJ,New Jersey,Age Group,6,6,6.9,13.6,6.699999999999999,Complete
+2023,NJ,New Jersey,Education Attained,4,4,4.2,17.0,12.8,Complete
+2023,NJ,New Jersey,Household Income,7,7,5.8,17.3,11.5,Complete
+2023,NJ,New Jersey,Race/Ethnicity,8,4,3.3,10.8,7.500000000000001,Partial
+2023,NJ,New Jersey,Sex,2,2,8.6,9.7,1.0999999999999996,Complete
+2023,NM,New Mexico,Age Group,6,6,7.7,18.6,10.900000000000002,Complete
+2023,NM,New Mexico,Education Attained,4,4,5.8,16.0,10.2,Complete
+2023,NM,New Mexico,Household Income,7,6,5.5,25.2,19.7,Partial
+2023,NM,New Mexico,Race/Ethnicity,8,3,11.4,12.8,1.4000000000000004,Partial
+2023,NM,New Mexico,Sex,2,2,9.0,15.6,6.6,Complete
+2023,NV,Nevada,Age Group,6,5,10.8,20.8,10.0,Partial
+2023,NV,Nevada,Education Attained,4,4,5.2,21.4,16.2,Complete
+2023,NV,Nevada,Household Income,7,5,8.3,26.4,18.099999999999998,Partial
+2023,NV,Nevada,Race/Ethnicity,8,3,12.7,16.2,3.5,Partial
+2023,NV,Nevada,Sex,2,2,12.9,15.6,2.6999999999999993,Complete
+2023,NY,New York,Age Group,6,6,3.4,12.6,9.2,Complete
+2023,NY,New York,Education Attained,4,4,3.9,19.1,15.200000000000001,Complete
+2023,NY,New York,Household Income,7,7,3.5,17.4,13.899999999999999,Complete
+2023,NY,New York,Race/Ethnicity,8,7,4.5,18.9,14.399999999999999,Partial
+2023,NY,New York,Sex,2,2,7.8,10.9,3.1000000000000005,Complete
+2023,OH,Ohio,Age Group,6,6,6.6,21.7,15.1,Complete
+2023,OH,Ohio,Education Attained,4,4,5.5,31.2,25.7,Complete
+2023,OH,Ohio,Household Income,7,7,7.5,36.3,28.799999999999997,Complete
+2023,OH,Ohio,Race/Ethnicity,8,5,14.4,22.2,7.799999999999999,Partial
+2023,OH,Ohio,Sex,2,2,14.3,15.7,1.3999999999999986,Complete
+2023,OK,Oklahoma,Age Group,6,6,9.2,22.1,12.900000000000002,Complete
+2023,OK,Oklahoma,Education Attained,4,4,5.8,30.0,24.2,Complete
+2023,OK,Oklahoma,Household Income,7,6,9.0,36.9,27.9,Partial
+2023,OK,Oklahoma,Race/Ethnicity,8,5,12.5,22.8,10.3,Partial
+2023,OK,Oklahoma,Sex,2,2,15.3,16.4,1.0999999999999979,Complete
+2023,OR,Oregon,Age Group,6,6,5.4,15.5,10.1,Complete
+2023,OR,Oregon,Education Attained,4,4,3.6,22.5,18.9,Complete
+2023,OR,Oregon,Household Income,7,6,6.3,23.0,16.7,Partial
+2023,OR,Oregon,Race/Ethnicity,8,4,6.4,22.1,15.700000000000001,Partial
+2023,OR,Oregon,Sex,2,2,9.9,11.4,1.5,Complete
+2023,RI,Rhode Island,Age Group,6,5,8.3,13.9,5.6,Partial
+2023,RI,Rhode Island,Education Attained,4,4,4.0,16.4,12.399999999999999,Complete
+2023,RI,Rhode Island,Household Income,7,6,4.8,24.3,19.5,Partial
+2023,RI,Rhode Island,Race/Ethnicity,8,3,6.3,10.1,3.8,Partial
+2023,RI,Rhode Island,Sex,2,2,8.4,10.7,2.299999999999999,Complete
+2023,SC,South Carolina,Age Group,6,6,5.4,19.1,13.700000000000001,Complete
+2023,SC,South Carolina,Education Attained,4,4,4.5,21.3,16.8,Complete
+2023,SC,South Carolina,Household Income,7,7,5.7,22.8,17.1,Complete
+2023,SC,South Carolina,Race/Ethnicity,8,6,8.6,24.5,15.9,Partial
+2023,SC,South Carolina,Sex,2,2,10.2,14.1,3.9000000000000004,Complete
+2023,SD,South Dakota,Age Group,6,5,14.1,22.4,8.299999999999999,Partial
+2023,SD,South Dakota,Education Attained,4,4,4.4,33.9,29.5,Complete
+2023,SD,South Dakota,Household Income,7,6,10.2,34.1,23.900000000000002,Partial
+2023,SD,South Dakota,Race/Ethnicity,8,3,12.6,35.6,23.0,Partial
+2023,SD,South Dakota,Sex,2,2,13.3,17.3,4.0,Complete
+2023,TN,Tennessee,Age Group,6,6,6.8,25.4,18.599999999999998,Complete
+2023,TN,Tennessee,Education Attained,4,4,5.5,36.8,31.299999999999997,Complete
+2023,TN,Tennessee,Household Income,7,6,6.1,37.3,31.199999999999996,Partial
+2023,TN,Tennessee,Race/Ethnicity,8,4,12.9,25.7,12.799999999999999,Partial
+2023,TN,Tennessee,Sex,2,2,15.8,18.2,2.3999999999999986,Complete
+2023,TX,Texas,Age Group,6,6,7.1,13.9,6.800000000000001,Complete
+2023,TX,Texas,Education Attained,4,4,4.5,15.1,10.6,Complete
+2023,TX,Texas,Household Income,7,7,4.3,20.3,16.0,Complete
+2023,TX,Texas,Race/Ethnicity,8,3,9.8,12.7,2.8999999999999986,Partial
+2023,TX,Texas,Sex,2,2,10.2,12.5,2.3000000000000007,Complete
+2023,UT,Utah,Age Group,6,6,2.6,7.8,5.199999999999999,Complete
+2023,UT,Utah,Education Attained,4,4,1.7,18.3,16.6,Complete
+2023,UT,Utah,Household Income,7,6,2.9,22.6,19.700000000000003,Partial
+2023,UT,Utah,Race/Ethnicity,8,3,4.8,14.9,10.100000000000001,Partial
+2023,UT,Utah,Sex,2,2,4.6,7.4,2.8000000000000007,Complete
+2023,VA,Virginia,Age Group,6,5,8.7,16.6,7.900000000000002,Partial
+2023,VA,Virginia,Education Attained,4,4,4.1,20.7,16.6,Complete
+2023,VA,Virginia,Household Income,7,6,6.5,23.3,16.8,Partial
+2023,VA,Virginia,Race/Ethnicity,8,4,8.0,16.8,8.8,Partial
+2023,VA,Virginia,Sex,2,2,9.6,12.3,2.700000000000001,Complete
+2023,VT,Vermont,Age Group,6,6,5.2,18.6,13.400000000000002,Complete
+2023,VT,Vermont,Education Attained,4,4,4.4,26.1,21.700000000000003,Complete
+2023,VT,Vermont,Household Income,7,6,5.2,31.1,25.900000000000002,Partial
+2023,VT,Vermont,Race/Ethnicity,8,2,10.8,22.6,11.8,Partial
+2023,VT,Vermont,Sex,2,2,10.7,12.0,1.3000000000000007,Complete
+2023,WA,Washington,Age Group,6,6,5.1,12.1,7.0,Complete
+2023,WA,Washington,Education Attained,4,4,3.2,17.6,14.400000000000002,Complete
+2023,WA,Washington,Household Income,7,7,2.8,21.8,19.0,Complete
+2023,WA,Washington,Race/Ethnicity,8,7,4.4,18.6,14.200000000000001,Partial
+2023,WA,Washington,Sex,2,2,7.3,10.7,3.3999999999999995,Complete
+2023,WI,Wisconsin,Age Group,6,6,4.6,17.2,12.6,Complete
+2023,WI,Wisconsin,Education Attained,4,4,5.0,21.7,16.7,Complete
+2023,WI,Wisconsin,Household Income,7,7,4.8,31.3,26.5,Complete
+2023,WI,Wisconsin,Race/Ethnicity,8,5,11.4,32.8,21.4,Partial
+2023,WI,Wisconsin,Sex,2,2,10.6,13.5,2.9000000000000004,Complete
+2023,WV,West Virginia,Age Group,6,6,8.0,32.2,24.200000000000003,Complete
+2023,WV,West Virginia,Education Attained,4,4,8.7,42.4,33.7,Complete
+2023,WV,West Virginia,Household Income,7,6,9.1,45.4,36.3,Partial
+2023,WV,West Virginia,Race/Ethnicity,8,3,19.9,25.4,5.5,Partial
+2023,WV,West Virginia,Sex,2,2,19.4,21.4,2.0,Complete
+2023,WY,Wyoming,Age Group,6,6,9.0,18.2,9.2,Complete
+2023,WY,Wyoming,Education Attained,4,4,4.9,32.1,27.200000000000003,Complete
+2023,WY,Wyoming,Household Income,7,6,7.4,26.2,18.799999999999997,Partial
+2023,WY,Wyoming,Race/Ethnicity,8,4,13.8,28.0,14.2,Partial
+2023,WY,Wyoming,Sex,2,2,12.4,15.6,3.1999999999999993,Complete

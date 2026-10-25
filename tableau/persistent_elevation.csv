@@ -1,0 +1,52 @@
+state_code,state_name,years_available,years_above_median,pattern
+AK,Alaska,5,5,Above median in all 5 years
+AL,Alabama,5,5,Above median in all 5 years
+AR,Arkansas,5,5,Above median in all 5 years
+AZ,Arizona,5,0,Other / incomplete
+CA,California,5,0,Other / incomplete
+CO,Colorado,5,0,Other / incomplete
+CT,Connecticut,5,0,Other / incomplete
+DC,District of Columbia,5,0,Other / incomplete
+DE,Delaware,5,0,Other / incomplete
+FL,Florida,4,0,Other / incomplete
+GA,Georgia,5,3,Other / incomplete
+HI,Hawaii,5,0,Other / incomplete
+IA,Iowa,5,5,Above median in all 5 years
+ID,Idaho,5,0,Other / incomplete
+IL,Illinois,5,0,Other / incomplete
+IN,Indiana,5,5,Above median in all 5 years
+KS,Kansas,5,5,Above median in all 5 years
+KY,Kentucky,4,4,Other / incomplete
+LA,Louisiana,5,5,Above median in all 5 years
+MA,Massachusetts,5,0,Other / incomplete
+MD,Maryland,5,0,Other / incomplete
+ME,Maine,5,5,Above median in all 5 years
+MI,Michigan,5,5,Above median in all 5 years
+MN,Minnesota,5,1,Other / incomplete
+MO,Missouri,5,5,Above median in all 5 years
+MS,Mississippi,5,5,Above median in all 5 years
+MT,Montana,5,4,Other / incomplete
+NC,North Carolina,5,4,Other / incomplete
+ND,North Dakota,5,5,Above median in all 5 years
+NE,Nebraska,5,0,Other / incomplete
+NH,New Hampshire,5,0,Other / incomplete
+NJ,New Jersey,4,0,Other / incomplete
+NM,New Mexico,5,3,Other / incomplete
+NV,Nevada,5,3,Other / incomplete
+NY,New York,5,0,Other / incomplete
+OH,Ohio,5,5,Above median in all 5 years
+OK,Oklahoma,5,5,Above median in all 5 years
+OR,Oregon,5,0,Other / incomplete
+PA,Pennsylvania,4,3,Other / incomplete
+RI,Rhode Island,5,0,Other / incomplete
+SC,South Carolina,5,4,Other / incomplete
+SD,South Dakota,5,4,Other / incomplete
+TN,Tennessee,5,5,Above median in all 5 years
+TX,Texas,5,0,Other / incomplete
+UT,Utah,5,0,Other / incomplete
+VA,Virginia,5,0,Other / incomplete
+VT,Vermont,5,1,Other / incomplete
+WA,Washington,5,0,Other / incomplete
+WI,Wisconsin,5,1,Other / incomplete
+WV,West Virginia,5,5,Above median in all 5 years
+WY,Wyoming,5,5,Above median in all 5 years
