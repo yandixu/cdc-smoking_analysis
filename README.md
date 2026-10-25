@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33934336/README.md)
-# cdc-smoking_analysis
 # Population Health Analytics: Smoking Trends & Disparities
 
 Independent analytics portfolio project | Python • SQL (SQLite) • Tableau-ready data and dashboard specification
