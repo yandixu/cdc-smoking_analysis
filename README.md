@@ -2,7 +2,7 @@
 
 Independent analytics portfolio project | Python • SQL (SQLite) • Tableau-ready data and dashboard specification
 
-![Smoking trends and disparities analysis](reports/visual_summary.png)
+![Smoking trends and disparities analysis](visual_summary.png)
 
 ## Decision question
 Which reporting states have persistently elevated adult cigarette smoking prevalence, and which demographic gaps warrant closer assessment before selecting outreach priorities?
